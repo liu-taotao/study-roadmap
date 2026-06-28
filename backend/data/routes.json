@@ -1,0 +1,8590 @@
+[
+  {
+    "id": "p34-math-sync",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "3-4年级数学课内同步",
+    "description": "万以内加减、多位数乘除、分数初步、几何图形——夯实运算基础",
+    "tags": [
+      "基础运算",
+      "几何入门",
+      "应用题"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "p34-ms1",
+        "name": "万以内加减法",
+        "description": "三位数四位数加减法竖式、连续进位退位",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": [
+          "三位数加减法竖式对齐方法",
+          "四位数加减分步计算",
+          "连续进位：个位→十位→百位",
+          "连续退位：借一当十",
+          "验算方法：交换加数/差+减数"
+        ]
+      },
+      {
+        "id": "p34-ms2",
+        "name": "多位数乘除法",
+        "description": "两三位数×一位数、除法竖式、余数",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": [
+          "乘法竖式：从个位乘起",
+          "进位标记方法",
+          "除法竖式：试商技巧",
+          "有余数除法的余数必须小于除数",
+          "估算与精确计算的选择"
+        ]
+      },
+      {
+        "id": "p34-ms3",
+        "name": "分数初步认识",
+        "description": "分数意义、读写、简单比较大小",
+        "order": 3,
+        "importance": 1,
+        "tags": [
+          "分数"
+        ],
+        "detailedPoints": [
+          "分数的意义：把一个整体平均分",
+          "分子分母分数线名称含义",
+          "分数的读写规范",
+          "同分母分数比较大小",
+          "分数在生活中的应用"
+        ]
+      },
+      {
+        "id": "p34-ms4",
+        "name": "长方形与正方形",
+        "description": "周长计算、面积概念引入",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": [
+          "长方形特征：对边相等四个直角",
+          "正方形特征：四边相等四个直角",
+          "周长公式推导：C=2(a+b)",
+          "面积概念：用单位正方形填充",
+          "区别周长与面积"
+        ]
+      },
+      {
+        "id": "p34-ms5",
+        "name": "时间与日历",
+        "description": "24时计时法、年月日计算",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "应用"
+        ],
+        "detailedPoints": [
+          "12时计时法→24时计时法转换",
+          "平年闰年判断口诀",
+          "大小月记忆：拳头法",
+          "经过时间的计算(跨天)",
+          "制作日历表"
+        ]
+      },
+      {
+        "id": "p34-ms6",
+        "name": "两步应用题",
+        "description": "加减乘除混合运算应用题解题思路",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "应用题"
+        ],
+        "detailedPoints": [
+          "审题：圈画关键信息",
+          "画图辅助理解题意",
+          "分步列式：先算什么后算什么",
+          "检查：代入验证",
+          "单位与答的规范"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级数学课内同步",
+      "children": [
+        {
+          "name": "数与运算",
+          "children": [
+            {
+              "name": "万以内加减法",
+              "children": [
+                "三位数加减",
+                "四位数加减",
+                "连续进位",
+                "连续退位"
+              ]
+            },
+            {
+              "name": "多位数乘除法",
+              "children": [
+                "乘法竖式",
+                "除法竖式",
+                "有余数除法",
+                "验算方法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "图形与几何",
+          "children": [
+            {
+              "name": "长方形与正方形",
+              "children": [
+                "认识特征",
+                "周长计算",
+                "面积概念"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "量与计量",
+          "children": [
+            {
+              "name": "时间与日历",
+              "children": [
+                "24时计时法",
+                "年月日",
+                "平年闰年"
+              ]
+            },
+            {
+              "name": "分数初步",
+              "children": [
+                "分数的意义",
+                "读写方法",
+                "比较大小"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "应用题",
+          "children": [
+            {
+              "name": "两步应用题",
+              "children": [
+                "加减混合",
+                "乘除混合",
+                "综合列式"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p34-math-advance",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "3-4年级数学思维拓展",
+    "description": "奥数入门：找规律、鸡兔同笼、和差倍、速算巧算",
+    "tags": [
+      "奥数",
+      "思维训练"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "p34-ma1",
+        "name": "找规律填数",
+        "description": "数列规律、图形规律推理",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "规律"
+        ],
+        "detailedPoints": [
+          "数列规律：等差数列与等比数列",
+          "图形规律：旋转、对称、增减",
+          "颜色与形状交替规律",
+          "数字推理：加减乘除关系",
+          "规律用数学式子表达"
+        ]
+      },
+      {
+        "id": "p34-ma2",
+        "name": "鸡兔同笼问题",
+        "description": "假设法、抬脚法三种解法",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "经典"
+        ],
+        "detailedPoints": [
+          "假设法：假设全是鸡(或兔)",
+          "抬脚法：兔抬起两只脚",
+          "方程法：设鸡x只列方程",
+          "三种方法对比",
+          "变式：已知脚数差"
+        ]
+      },
+      {
+        "id": "p34-ma3",
+        "name": "和差倍问题",
+        "description": "和倍、差倍、和差三类应用题",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "应用题"
+        ],
+        "detailedPoints": [
+          "和倍问题：和÷(倍数+1)",
+          "差倍问题：差÷(倍数-1)",
+          "和差问题：(和+差)÷2",
+          "画线段图表示数量关系",
+          "检验答案是否合理"
+        ]
+      },
+      {
+        "id": "p34-ma4",
+        "name": "巧算速算",
+        "description": "凑整法、拆分法、基准数法",
+        "order": 4,
+        "importance": 1,
+        "tags": [
+          "技巧"
+        ],
+        "detailedPoints": [
+          "凑整法：找能凑成整十整百的数",
+          "拆分法：拆成容易计算的数",
+          "基准数法：选基准算差再求和",
+          "乘法分配律巧算",
+          "估算与心算技巧"
+        ]
+      },
+      {
+        "id": "p34-ma5",
+        "name": "数字谜题",
+        "description": "竖式谜、横式谜推理填空",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "推理"
+        ],
+        "detailedPoints": [
+          "竖式谜：根据进位退位推理",
+          "横式谜：根据等式关系推理",
+          "数字谜：每个字母代表一个数字",
+          "突破口：从已知数字入手",
+          "逐一验证所有可能性"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级数学思维拓展",
+      "children": [
+        {
+          "name": "规律与推理",
+          "children": [
+            {
+              "name": "找规律填数",
+              "children": [
+                "数列规律",
+                "图形规律",
+                "数字谜题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "经典应用",
+          "children": [
+            {
+              "name": "鸡兔同笼",
+              "children": [
+                "假设法",
+                "抬脚法",
+                "方程法"
+              ]
+            },
+            {
+              "name": "和差倍问题",
+              "children": [
+                "和倍问题",
+                "差倍问题",
+                "和差问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "计算技巧",
+          "children": [
+            {
+              "name": "巧算速算",
+              "children": [
+                "凑整法",
+                "拆分法",
+                "基准数法"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p34-math-exam",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "3-4年级数学期中期末冲刺",
+    "description": "计算专项+应用题分类+易错题+模拟卷，高效提分",
+    "tags": [
+      "复习",
+      "考试",
+      "错题"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "p34-me1",
+        "name": "计算专项训练",
+        "description": "限时口算笔算，提升速度与准确率",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "限时"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-me2",
+        "name": "应用题分类突破",
+        "description": "按类型归类解题模板",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "模板"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-me3",
+        "name": "易错题精讲",
+        "description": "常见错误类型分析与纠正",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "错题"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-me4",
+        "name": "模拟试卷",
+        "description": "历年真题模拟训练",
+        "order": 4,
+        "importance": 1,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级数学期中期末冲刺",
+      "children": [
+        {
+          "name": "计算专项",
+          "children": [
+            {
+              "name": "口算+笔算限时训练",
+              "children": [
+                "加减法速算",
+                "乘除法速算",
+                "混合运算"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "应用题突破",
+          "children": [
+            {
+              "name": "类型归类+解题模板",
+              "children": [
+                "归一问题",
+                "归总问题",
+                "倍比问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "查漏补缺",
+          "children": [
+            {
+              "name": "易错题+模拟卷",
+              "children": [
+                "进位退位错误",
+                "审题不清",
+                "单位换算"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p34-chinese-sync",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "3-4年级语文课内同步",
+    "description": "字词积累+古诗背诵+阅读理解+写作入门，构建语文基础",
+    "tags": [
+      "字词",
+      "阅读",
+      "写作"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "p34-cs1",
+        "name": "生字词积累",
+        "description": "每课生字拼音、部首、组词造句",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "字词"
+        ],
+        "detailedPoints": [
+          "会认字与会写字的区别",
+          "拼音标注方法",
+          "部首查字法",
+          "形近字辨析(如：己已巳)",
+          "多音字在不同词语中的读音",
+          "用新词造完整句子"
+        ]
+      },
+      {
+        "id": "p34-cs2",
+        "name": "古诗背诵与理解",
+        "description": "课内古诗默写、诗意理解、作者背景",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "古诗"
+        ],
+        "detailedPoints": [
+          "朗读节奏与停顿",
+          "理解诗意：逐句翻译",
+          "写作背景与作者介绍",
+          "重点字词注释",
+          "默写检查：同音字替换",
+          "诗人表达的情感"
+        ]
+      },
+      {
+        "id": "p34-cs3",
+        "name": "段落概括能力",
+        "description": "自然段意义段划分、段意概括方法",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": [
+          "自然段：一个自然段讲一个意思",
+          "意义段：几个自然段归为一个意义段",
+          "段意概括：\"谁+做了什么\"",
+          "找中心句的方法",
+          "划分段落的标志词"
+        ]
+      },
+      {
+        "id": "p34-cs4",
+        "name": "记事作文",
+        "description": "六要素法、按事情发展顺序写作",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": [
+          "六要素：时间地点人物起因经过结果",
+          "开头：开门见山",
+          "按事情发展顺序叙述",
+          "详写重点部分",
+          "结尾：点明感受或道理"
+        ]
+      },
+      {
+        "id": "p34-cs5",
+        "name": "观察日记",
+        "description": "培养观察力、学会细节描写",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": [
+          "观察顺序：从上到下/从左到右",
+          "五感法：看听闻尝触",
+          "用形容词让描写生动",
+          "用比喻句让想象丰富",
+          "坚持每日记录"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级语文课内同步",
+      "children": [
+        {
+          "name": "基础积累",
+          "children": [
+            {
+              "name": "生字词",
+              "children": [
+                "拼音",
+                "部首",
+                "组词",
+                "造句"
+              ]
+            },
+            {
+              "name": "古诗背诵",
+              "children": [
+                "课内必背",
+                "诗意理解",
+                "作者背景"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "阅读能力",
+          "children": [
+            {
+              "name": "段落概括",
+              "children": [
+                "自然段划分",
+                "意义段划分",
+                "段意归纳"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作表达",
+          "children": [
+            {
+              "name": "记事作文",
+              "children": [
+                "六要素法",
+                "按顺序写",
+                "详略得当"
+              ]
+            },
+            {
+              "name": "观察日记",
+              "children": [
+                "五感观察",
+                "细节描写",
+                "每日练笔"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p34-chinese-exam",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "语文",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "3-4年级语文期中期末冲刺",
+    "description": "基础题不失分+阅读满分技巧+作文模板",
+    "tags": [
+      "复习",
+      "基础",
+      "阅读"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "p34-ce1",
+        "name": "字词句基础过关",
+        "description": "看拼音写词、形近字辨析、修改病句",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "基础"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-ce2",
+        "name": "课内阅读精练",
+        "description": "课文重点段落理解、中心思想归纳",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-ce3",
+        "name": "课外阅读技巧",
+        "description": "记叙文说明文阅读答题模板",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-ce4",
+        "name": "考场作文速成",
+        "description": "开头结尾技巧、中间分段方法",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级语文期中期末冲刺",
+      "children": [
+        {
+          "name": "基础保分",
+          "children": [
+            {
+              "name": "字词句过关",
+              "children": [
+                "看拼音写词",
+                "形近字辨析",
+                "修改病句"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "阅读提分",
+          "children": [
+            {
+              "name": "课内+课外阅读",
+              "children": [
+                "重点段落理解",
+                "中心思想",
+                "答题模板"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "作文冲刺",
+          "children": [
+            {
+              "name": "考场作文速成",
+              "children": [
+                "开头技巧",
+                "结尾方法",
+                "中间分段"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p34-english-sync",
+    "gradeId": "grade-3-4",
+    "gradeName": "小学3-4年级",
+    "gradeSlug": "primary-3-4",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "3-4年级英语课内同步",
+    "description": "字母单词入门、简单句型、听说基础——英语启蒙关键期",
+    "tags": [
+      "字母",
+      "单词",
+      "听说"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "p34-es1",
+        "name": "26个字母",
+        "description": "大小写书写、字母发音规律",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "字母"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-es2",
+        "name": "基础词汇积累",
+        "description": "颜色/数字/动物/家庭成员等主题词汇",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "词汇"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-es3",
+        "name": "简单问候句型",
+        "description": "Hello/How are you/What is this等日常对话",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "句型"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-es4",
+        "name": "自然拼读入门",
+        "description": "元音辅音发音规律、CVC单词拼读",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "拼读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p34-es5",
+        "name": "课堂用语",
+        "description": "听懂英文课堂指令、简单口语表达",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "听说"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "3-4年级英语课内同步",
+      "children": [
+        {
+          "name": "字母与拼读",
+          "children": [
+            {
+              "name": "26个字母",
+              "children": [
+                "大小写书写",
+                "字母发音"
+              ]
+            },
+            {
+              "name": "自然拼读",
+              "children": [
+                "元音规律",
+                "辅音规律",
+                "CVC拼读"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "词汇句型",
+          "children": [
+            {
+              "name": "基础词汇",
+              "children": [
+                "颜色",
+                "数字",
+                "动物",
+                "家庭成员"
+              ]
+            },
+            {
+              "name": "日常对话",
+              "children": [
+                "问候",
+                "介绍",
+                "课堂用语"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-math-sync",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "5-6年级数学课内同步",
+    "description": "小数分数运算、方程入门、几何进阶——为初中数学打基础",
+    "tags": [
+      "小数",
+      "分数",
+      "方程",
+      "几何"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "p56-ms1",
+        "name": "小数乘除法",
+        "description": "小数乘法除法计算规则与简便运算",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ms2",
+        "name": "分数的运算",
+        "description": "分数加减乘除、通分约分",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "分数"
+        ],
+        "detailedPoints": [
+          "分数加减法：先通分后加减",
+          "分数乘法：分子×分子分母×分母",
+          "分数除法：乘除数的倒数",
+          "约分技巧：分子分母同时除以公因数",
+          "混合运算：先乘除后加减有括号先算"
+        ]
+      },
+      {
+        "id": "p56-ms3",
+        "name": "简易方程",
+        "description": "用字母表示数、解方程、列方程解应用题",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "方程"
+        ],
+        "detailedPoints": [
+          "用字母表示数量关系",
+          "等式的性质：两边同加同减同乘同除",
+          "解方程步骤：去分母去括号移项合并",
+          "检验：把解代入原方程",
+          "列方程解应用题：设找列解验答"
+        ]
+      },
+      {
+        "id": "p56-ms4",
+        "name": "多边形面积",
+        "description": "三角形梯形平行四边形面积公式推导",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ms5",
+        "name": "长方体和正方体",
+        "description": "表面积体积计算",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ms6",
+        "name": "百分数",
+        "description": "折扣、利息、税率实际应用",
+        "order": 6,
+        "importance": 1,
+        "tags": [
+          "应用"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ms7",
+        "name": "比和比例",
+        "description": "比的意义、正比例反比例判断",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "比例"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "5-6年级数学课内同步",
+      "children": [
+        {
+          "name": "数与代数",
+          "children": [
+            {
+              "name": "小数乘除法",
+              "children": [
+                "小数乘法法则",
+                "小数除法法则",
+                "简便运算"
+              ]
+            },
+            {
+              "name": "分数运算",
+              "children": [
+                "分数加减",
+                "分数乘除",
+                "通分约分"
+              ]
+            },
+            {
+              "name": "简易方程",
+              "children": [
+                "用字母表示数",
+                "解方程",
+                "列方程解应用题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "图形与几何",
+          "children": [
+            {
+              "name": "多边形面积",
+              "children": [
+                "三角形面积",
+                "梯形面积",
+                "平行四边形面积"
+              ]
+            },
+            {
+              "name": "长方体与正方体",
+              "children": [
+                "表面积公式",
+                "体积公式",
+                "容积计算"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "统计与概率",
+          "children": [
+            {
+              "name": "百分数",
+              "children": [
+                "折扣",
+                "利息",
+                "税率",
+                "浓度"
+              ]
+            },
+            {
+              "name": "比和比例",
+              "children": [
+                "比的意义",
+                "正比例",
+                "反比例"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-math-advance",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "5-6年级数学培优竞赛",
+    "description": "小学奥数核心专题：行程、工程、数论、逻辑推理",
+    "tags": [
+      "奥数",
+      "竞赛",
+      "小升初"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "p56-ma1",
+        "name": "行程问题",
+        "description": "相遇追及、环形跑道、火车过桥",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "行程"
+        ],
+        "detailedPoints": [
+          "相遇问题：总路程÷速度和=时间",
+          "追及问题：路程差÷速度差=时间",
+          "环形跑道：每次相遇多跑一圈",
+          "火车过桥：路程=桥长+车长",
+          "画线段图分析运动过程"
+        ]
+      },
+      {
+        "id": "p56-ma2",
+        "name": "工程问题",
+        "description": "工作效率、合作完成、注水排水",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "工程"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ma3",
+        "name": "浓度问题",
+        "description": "溶液浓度计算、混合配比",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "浓度"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ma4",
+        "name": "数论初步",
+        "description": "整除特征、质数合数、最大公约数最小公倍数",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "数论"
+        ],
+        "detailedPoints": [
+          "2/3/5/9/11的整除特征",
+          "质数表记忆(100以内)",
+          "分解质因数",
+          "最大公约数：短除法",
+          "最小公倍数：短除法",
+          "互质的概念与判断"
+        ]
+      },
+      {
+        "id": "p56-ma5",
+        "name": "抽屉原理",
+        "description": "最不利原则、构造抽屉",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "组合"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ma6",
+        "name": "逻辑推理",
+        "description": "排除法、假设法、列表分析法",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "推理"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "5-6年级数学培优竞赛",
+      "children": [
+        {
+          "name": "经典专题",
+          "children": [
+            {
+              "name": "行程问题",
+              "children": [
+                "相遇",
+                "追及",
+                "环形",
+                "火车过桥"
+              ]
+            },
+            {
+              "name": "工程问题",
+              "children": [
+                "工作效率",
+                "合作完成",
+                "注水排水"
+              ]
+            },
+            {
+              "name": "浓度问题",
+              "children": [
+                "溶液浓度",
+                "混合配比",
+                "十字交叉法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "数论与组合",
+          "children": [
+            {
+              "name": "数论初步",
+              "children": [
+                "整除特征",
+                "质数合数",
+                "最大公约数最小公倍数"
+              ]
+            },
+            {
+              "name": "抽屉原理",
+              "children": [
+                "最不利原则",
+                "构造抽屉"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "思维训练",
+          "children": [
+            {
+              "name": "逻辑推理",
+              "children": [
+                "排除法",
+                "假设法",
+                "列表分析法"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-math-exam",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "小升初数学冲刺",
+    "description": "全面复习小学阶段核心考点，模拟真题训练",
+    "tags": [
+      "小升初",
+      "总复习",
+      "冲刺"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "p56-me1",
+        "name": "计算综合",
+        "description": "整数小数分数四则混合运算",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "综合"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-me2",
+        "name": "应用题分类总复习",
+        "description": "十二类经典应用题解题套路",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "总结"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-me3",
+        "name": "几何图形综合",
+        "description": "组合图形面积体积综合计算",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-me4",
+        "name": "真题模拟",
+        "description": "近三年小升初真题解析",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "小升初数学冲刺",
+      "children": [
+        {
+          "name": "计算综合",
+          "children": [
+            {
+              "name": "四则混合运算",
+              "children": [
+                "整数运算",
+                "小数运算",
+                "分数运算",
+                "简便方法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "应用题总复习",
+          "children": [
+            {
+              "name": "12类经典题型",
+              "children": [
+                "归一",
+                "归总",
+                "和差",
+                "和倍",
+                "差倍",
+                "行程",
+                "工程",
+                "浓度",
+                "利润",
+                "年龄",
+                "植树",
+                "鸡兔同笼"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何图形",
+          "children": [
+            {
+              "name": "组合图形面积体积",
+              "children": [
+                "割补法",
+                "等积变换",
+                "排水法测体积"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "真题模拟",
+          "children": [
+            {
+              "name": "近三年真题",
+              "children": [
+                "限时训练",
+                "错题分析",
+                "查漏补缺"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-chinese-sync",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "5-6年级语文课内同步",
+    "description": "阅读理解深化、说明文议论文入门、写作能力全面提升",
+    "tags": [
+      "阅读",
+      "写作",
+      "文言文"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "p56-cs1",
+        "name": "说明文阅读",
+        "description": "说明方法识别、说明顺序分析、信息提取",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-cs2",
+        "name": "叙事文深度阅读",
+        "description": "人物描写分析、情节梳理、环境描写作用",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-cs3",
+        "name": "文言文启蒙",
+        "description": "简单文言文诵读、常见实词虚词",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-cs4",
+        "name": "写人作文",
+        "description": "外貌语言动作心理神态描写",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-cs5",
+        "name": "读后感写作",
+        "description": "读后感的格式与写法",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "5-6年级语文课内同步",
+      "children": [
+        {
+          "name": "阅读理解",
+          "children": [
+            {
+              "name": "说明文阅读",
+              "children": [
+                "说明方法",
+                "说明顺序",
+                "信息提取"
+              ]
+            },
+            {
+              "name": "叙事文阅读",
+              "children": [
+                "人物分析",
+                "情节梳理",
+                "环境描写作用"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作提升",
+          "children": [
+            {
+              "name": "写人作文",
+              "children": [
+                "外貌",
+                "语言",
+                "动作",
+                "心理",
+                "神态"
+              ]
+            },
+            {
+              "name": "读后感",
+              "children": [
+                "格式规范",
+                "感点明确",
+                "联系实际"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "文言启蒙",
+          "children": [
+            {
+              "name": "文言文入门",
+              "children": [
+                "诵读节奏",
+                "常见实词",
+                "常见虚词"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-chinese-exam",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "语文",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "小升初语文冲刺",
+    "description": "基础满分+阅读模板+作文速成，小升初语文全突破",
+    "tags": [
+      "小升初",
+      "冲刺",
+      "阅读"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "p56-ce1",
+        "name": "基础知识大全",
+        "description": "拼音字词句段篇全梳理",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "基础"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ce2",
+        "name": "阅读理解满分技巧",
+        "description": "概括题/赏析题/含义题答题公式",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ce3",
+        "name": "作文素材积累",
+        "description": "人物/事件/景物素材库建立",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ce4",
+        "name": "真题模拟训练",
+        "description": "近三年小升初语文真题",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "小升初语文冲刺",
+      "children": [
+        {
+          "name": "基础知识",
+          "children": [
+            {
+              "name": "全梳理",
+              "children": [
+                "拼音",
+                "字词",
+                "成语",
+                "病句",
+                "标点",
+                "修辞"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "阅读理解",
+          "children": [
+            {
+              "name": "答题公式",
+              "children": [
+                "概括题",
+                "赏析题",
+                "含义题",
+                "作用题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "作文素材",
+          "children": [
+            {
+              "name": "素材库",
+              "children": [
+                "人物类",
+                "事件类",
+                "景物类",
+                "感悟类"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "真题模拟",
+          "children": [
+            {
+              "name": "小升初真题",
+              "children": [
+                "限时训练",
+                "评分标准",
+                "范文学习"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-english-sync",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "5-6年级英语课内同步",
+    "description": "四大时态系统学习、词汇量扩充、简单阅读写作",
+    "tags": [
+      "时态",
+      "词汇",
+      "阅读"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "p56-es1",
+        "name": "一般现在时",
+        "description": "三单变化规律、频率副词用法",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-es2",
+        "name": "现在进行时",
+        "description": "be+V-ing结构、时间标志词",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-es3",
+        "name": "一般过去时",
+        "description": "规则/不规则动词过去式、yesterday等状语",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-es4",
+        "name": "一般将来时",
+        "description": "will与be going to的区别",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-es5",
+        "name": "基础阅读训练",
+        "description": "短文阅读理解、判断正误、选择填空",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-es6",
+        "name": "简单写作",
+        "description": "写人写事、日记书信格式",
+        "order": 6,
+        "importance": 1,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "5-6年级英语课内同步",
+      "children": [
+        {
+          "name": "四大时态",
+          "children": [
+            {
+              "name": "一般现在时",
+              "children": [
+                "三单变化",
+                "频率副词",
+                "every/day等标志"
+              ]
+            },
+            {
+              "name": "现在进行时",
+              "children": [
+                "be+V-ing",
+                "now/look/listen"
+              ]
+            },
+            {
+              "name": "一般过去时",
+              "children": [
+                "规则/不规则动词",
+                "yesterday/last/ago"
+              ]
+            },
+            {
+              "name": "一般将来时",
+              "children": [
+                "will",
+                "be going to"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "阅读写作",
+          "children": [
+            {
+              "name": "基础阅读",
+              "children": [
+                "判断正误",
+                "选择填空",
+                "回答问题"
+              ]
+            },
+            {
+              "name": "简单写作",
+              "children": [
+                "写人",
+                "写事",
+                "日记",
+                "书信"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "p56-english-exam",
+    "gradeId": "grade-5-6",
+    "gradeName": "小学5-6年级",
+    "gradeSlug": "primary-5-6",
+    "subject": "英语",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "小升初英语冲刺",
+    "description": "四大时态总复习+词汇分类+阅读写作模板",
+    "tags": [
+      "小升初",
+      "时态",
+      "冲刺"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "p56-ee1",
+        "name": "时态综合练习",
+        "description": "四大时态对比辨析、综合填空",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ee2",
+        "name": "词汇分类记忆",
+        "description": "名词动词形容词副词分类速记",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "词汇"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ee3",
+        "name": "句型转换",
+        "description": "肯定否定疑问、特殊疑问句",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "句型"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "p56-ee4",
+        "name": "阅读+写作模板",
+        "description": "阅读常见题型+写作框架",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "综合"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "小升初英语冲刺",
+      "children": [
+        {
+          "name": "语法总复习",
+          "children": [
+            {
+              "name": "时态+句型",
+              "children": [
+                "四大时态对比",
+                "句型转换",
+                "语法填空"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "词汇分类",
+          "children": [
+            {
+              "name": "主题词汇",
+              "children": [
+                "名词",
+                "动词",
+                "形容词",
+                "副词",
+                "介词"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "综合训练",
+          "children": [
+            {
+              "name": "阅读+写作",
+              "children": [
+                "阅读题型技巧",
+                "写作框架模板"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-math-sync",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初一数学课内同步（人教版）",
+    "description": "有理数到方程组，代数思维过渡关键期",
+    "tags": [
+      "有理数",
+      "整式",
+      "方程",
+      "几何初步"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g7-ms1",
+        "name": "有理数运算",
+        "description": "正负数、绝对值、加减乘除乘方混合",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "有理数"
+        ],
+        "detailedPoints": [
+          "正负数的意义与表示",
+          "数轴三要素：原点正方向单位长度",
+          "相反数与绝对值的几何意义",
+          "有理数加法法则(同号/异号)",
+          "减法转化加法",
+          "乘法除法符号法则：同号得正异号得负"
+        ]
+      },
+      {
+        "id": "g7-ms2",
+        "name": "整式加减",
+        "description": "单项式多项式、合并同类项、去括号",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "代数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ms3",
+        "name": "一元一次方程",
+        "description": "解方程五步法、应用题建模",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "方程"
+        ],
+        "detailedPoints": [
+          "方程的解与解方程的区别",
+          "去分母：方程两边同乘最简公分母",
+          "去括号：注意符号变化",
+          "移项：移项要变号",
+          "合并同类项",
+          "系数化为1"
+        ]
+      },
+      {
+        "id": "g7-ms4",
+        "name": "二元一次方程组",
+        "description": "代入消元、加减消元",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "方程组"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ms5",
+        "name": "不等式与不等式组",
+        "description": "不等式性质、解集表示、应用",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "不等式"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ms6",
+        "name": "线与角",
+        "description": "线段角、对顶角、平行线判定与性质",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": [
+          "线段的中点公式",
+          "角的平分线性质",
+          "对顶角相等",
+          "同位角/内错角/同旁内角识别",
+          "平行线的判定定理",
+          "平行线的性质定理"
+        ]
+      },
+      {
+        "id": "g7-ms7",
+        "name": "平面直角坐标系",
+        "description": "坐标概念、点的平移对称",
+        "order": 7,
+        "importance": 1,
+        "tags": [
+          "坐标"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一数学课内同步",
+      "children": [
+        {
+          "name": "数与式",
+          "children": [
+            {
+              "name": "有理数",
+              "children": [
+                "正负数",
+                "绝对值",
+                "加减乘除乘方",
+                "混合运算"
+              ]
+            },
+            {
+              "name": "整式加减",
+              "children": [
+                "单项式",
+                "多项式",
+                "合并同类项",
+                "去括号"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "方程与不等式",
+          "children": [
+            {
+              "name": "一元一次方程",
+              "children": [
+                "解方程五步法",
+                "应用题建模",
+                "八大题型"
+              ]
+            },
+            {
+              "name": "二元一次方程组",
+              "children": [
+                "代入消元",
+                "加减消元",
+                "实际应用"
+              ]
+            },
+            {
+              "name": "不等式",
+              "children": [
+                "不等式性质",
+                "一元一次不等式",
+                "不等式组",
+                "解集表示"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何初步",
+          "children": [
+            {
+              "name": "线与角",
+              "children": [
+                "线段",
+                "角",
+                "对顶角",
+                "平行线判定与性质"
+              ]
+            },
+            {
+              "name": "平面直角坐标系",
+              "children": [
+                "坐标概念",
+                "点的平移",
+                "点的对称"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-math-advance",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "初一数学思维拔高",
+    "description": "绝对值综合、含参方程、几何证明入门",
+    "tags": [
+      "培优",
+      "代数思维",
+      "几何证明"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g7-ma1",
+        "name": "绝对值与数轴综合",
+        "description": "绝对值方程不等式、数轴动点问题",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "绝对值"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ma2",
+        "name": "含参方程与不等式",
+        "description": "参数方程求解、分类讨论思想",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "参数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ma3",
+        "name": "应用题建模",
+        "description": "经济问题、行程问题方程建模",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "建模"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ma4",
+        "name": "几何证明入门",
+        "description": "推理格式、因果关系、辅助线思想",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "证明"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一数学思维拔高",
+      "children": [
+        {
+          "name": "代数深化",
+          "children": [
+            {
+              "name": "绝对值综合",
+              "children": [
+                "绝对值方程",
+                "绝对值不等式",
+                "数轴动点"
+              ]
+            },
+            {
+              "name": "含参方程",
+              "children": [
+                "参数讨论",
+                "分类思想"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何证明入门",
+          "children": [
+            {
+              "name": "推理与证明",
+              "children": [
+                "因果关系",
+                "推理格式",
+                "辅助线思想"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "建模能力",
+          "children": [
+            {
+              "name": "应用题建模",
+              "children": [
+                "经济问题",
+                "行程问题",
+                "方案设计"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-math-exam",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "初一数学期中期末冲刺",
+    "description": "计算+几何+方程三大板块复习，突破易错点",
+    "tags": [
+      "复习",
+      "期末",
+      "易错"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g7-me1",
+        "name": "计算综合复习",
+        "description": "有理数混合运算、整式化简求值",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-me2",
+        "name": "方程与应用题",
+        "description": "各种应用题类型方程建模",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "方程"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-me3",
+        "name": "几何证明专项",
+        "description": "平行线证明、角度计算",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-me4",
+        "name": "模拟测试",
+        "description": "期中期末模拟卷",
+        "order": 4,
+        "importance": 1,
+        "tags": [
+          "模拟"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一数学期中期末冲刺",
+      "children": [
+        {
+          "name": "计算复习",
+          "children": [
+            {
+              "name": "有理数+整式",
+              "children": [
+                "混合运算",
+                "化简求值",
+                "运算律"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "方程应用",
+          "children": [
+            {
+              "name": "各类应用题",
+              "children": [
+                "行程",
+                "工程",
+                "利润",
+                "配套"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何证明",
+          "children": [
+            {
+              "name": "平行线+角度",
+              "children": [
+                "三线八角",
+                "角度计算",
+                "证明书写"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-chinese-sync",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初一语文课内同步",
+    "description": "文言文系统学习、现代文深度阅读、记叙文写作提升",
+    "tags": [
+      "文言文",
+      "阅读",
+      "写作"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g7-cs1",
+        "name": "课内文言文精讲",
+        "description": "《世说新语》《论语》逐字逐句翻译",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-cs2",
+        "name": "现代文阅读",
+        "description": "散文小说阅读、人物分析、主题探究",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-cs3",
+        "name": "记叙文写作",
+        "description": "六要素、详略得当、细节描写",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-cs4",
+        "name": "病句修改",
+        "description": "常见语病类型与修改方法",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-cs5",
+        "name": "名著导读",
+        "description": "《朝花夕拾》《西游记》阅读指导",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "名著"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一语文课内同步",
+      "children": [
+        {
+          "name": "文言文",
+          "children": [
+            {
+              "name": "课内精讲",
+              "children": [
+                "《世说新语》",
+                "《论语》",
+                "逐字翻译",
+                "文言现象"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "现代文",
+          "children": [
+            {
+              "name": "阅读",
+              "children": [
+                "散文",
+                "小说",
+                "人物分析",
+                "主题探究"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作",
+          "children": [
+            {
+              "name": "记叙文",
+              "children": [
+                "六要素",
+                "详略得当",
+                "细节描写",
+                "开头结尾"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "基础",
+          "children": [
+            {
+              "name": "语法+名著",
+              "children": [
+                "病句修改",
+                "《朝花夕拾》",
+                "《西游记》"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-english-sync",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初一英语课内同步",
+    "description": "音标+词汇+语法三位一体，听说读写全面起步",
+    "tags": [
+      "音标",
+      "语法",
+      "阅读"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g7-es1",
+        "name": "音标系统学习",
+        "description": "48个国际音标、拼读规则",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "音标"
+        ],
+        "detailedPoints": [
+          "单元音12个：长短元音对比",
+          "双元音8个：滑动发音",
+          "清辅音与浊辅音",
+          "爆破音/p//b//t//d//k//g/",
+          "摩擦音/f//v//θ//ð/",
+          "拼读规则：辅音+元音拼合"
+        ]
+      },
+      {
+        "id": "g7-es2",
+        "name": "一般现在时",
+        "description": "三单变化、频率副词、日常表达",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": [
+          "主语为三单时动词+s/es",
+          "have→has的特殊变化",
+          "always/usually/often/sometimes/never",
+          "every day/week/month/year",
+          "一般现在时表经常性动作或状态",
+          "一般现在时表客观事实真理"
+        ]
+      },
+      {
+        "id": "g7-es3",
+        "name": "现在进行时",
+        "description": "be+V-ing、与一般现在时区别",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-es4",
+        "name": "一般过去时",
+        "description": "规则/不规则过去式、时间状语",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-es5",
+        "name": "基础阅读训练",
+        "description": "短文阅读技巧、主旨大意与细节题",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-es6",
+        "name": "书面表达入门",
+        "description": "简单书信、日记、介绍类写作",
+        "order": 6,
+        "importance": 1,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一英语课内同步",
+      "children": [
+        {
+          "name": "语音",
+          "children": [
+            {
+              "name": "音标系统",
+              "children": [
+                "48个音标",
+                "拼读规则",
+                "重音语调"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "语法",
+          "children": [
+            {
+              "name": "三大时态",
+              "children": [
+                "一般现在时",
+                "现在进行时",
+                "一般过去时"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "技能",
+          "children": [
+            {
+              "name": "阅读",
+              "children": [
+                "主旨大意",
+                "细节理解",
+                "推断判断"
+              ]
+            },
+            {
+              "name": "写作",
+              "children": [
+                "书信",
+                "日记",
+                "自我介绍"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-physics-sync",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "物理",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初一物理启蒙（人教版）",
+    "description": "物理入门：声、光、热、力基础概念，培养科学思维",
+    "tags": [
+      "物理启蒙",
+      "声光热力"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g7-ps1",
+        "name": "长度与时间测量",
+        "description": "刻度尺使用、误差分析、秒表读数",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "测量"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ps2",
+        "name": "声现象",
+        "description": "声音产生与传播、音调响度音色、超声波",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "声学"
+        ],
+        "detailedPoints": [
+          "声音由物体振动产生",
+          "声音靠介质传播(固液气)",
+          "真空不能传声",
+          "音调与频率的关系",
+          "响度与振幅的关系",
+          "音色与发声体材料结构的关系"
+        ]
+      },
+      {
+        "id": "g7-ps3",
+        "name": "光的直线传播",
+        "description": "光源、光的直线传播、光速",
+        "order": 3,
+        "importance": 1,
+        "tags": [
+          "光学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ps4",
+        "name": "光的反射",
+        "description": "反射定律、镜面反射漫反射、平面镜成像",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "光学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-ps5",
+        "name": "温度与物态变化",
+        "description": "温度计使用、熔化凝固汽化液化升华凝华",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "热学"
+        ],
+        "detailedPoints": [
+          "温度计原理与使用方法",
+          "熔化：固态→液态(吸热)",
+          "凝固：液态→固态(放热)",
+          "汽化：蒸发(任何温度)与沸腾(沸点)",
+          "液化：降低温度或压缩体积",
+          "升华(固→气)与凝华(气→固)"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "初一物理启蒙",
+      "children": [
+        {
+          "name": "测量",
+          "children": [
+            {
+              "name": "长度与时间",
+              "children": [
+                "刻度尺使用",
+                "误差",
+                "秒表读数"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "声学",
+          "children": [
+            {
+              "name": "声现象",
+              "children": [
+                "产生与传播",
+                "三要素",
+                "超声波次声波"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "光学",
+          "children": [
+            {
+              "name": "光的传播",
+              "children": [
+                "直线传播",
+                "反射定律",
+                "平面镜成像"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "热学",
+          "children": [
+            {
+              "name": "物态变化",
+              "children": [
+                "六种变化",
+                "吸放热",
+                "温度计使用"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g7-chemistry-sync",
+    "gradeId": "grade-7",
+    "gradeName": "初一",
+    "gradeSlug": "junior-1",
+    "subject": "化学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初一化学启蒙",
+    "description": "化学入门：物质的变化、空气组成、基础实验操作",
+    "tags": [
+      "化学启蒙",
+      "实验",
+      "物质"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g7-chs1",
+        "name": "物质的变化",
+        "description": "物理变化与化学变化的区别与判断",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "概念"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-chs2",
+        "name": "空气的组成",
+        "description": "氮气氧气稀有气体、空气污染与保护",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "空气"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-chs3",
+        "name": "氧气的性质",
+        "description": "氧气的物理化学性质、氧化反应",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "氧气"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g7-chs4",
+        "name": "基础实验操作",
+        "description": "药品取用、加热、仪器连接、洗涤",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初一化学启蒙",
+      "children": [
+        {
+          "name": "物质变化",
+          "children": [
+            {
+              "name": "物理vs化学变化",
+              "children": [
+                "判断标准",
+                "常见例子"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "空气",
+          "children": [
+            {
+              "name": "组成与保护",
+              "children": [
+                "氮气",
+                "氧气",
+                "稀有气体",
+                "污染"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "氧气",
+          "children": [
+            {
+              "name": "性质与制取",
+              "children": [
+                "物理性质",
+                "化学性质",
+                "实验室制法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "实验基础",
+          "children": [
+            {
+              "name": "基本操作",
+              "children": [
+                "药品取用",
+                "加热",
+                "仪器连接",
+                "洗涤"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-math-sync",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初二数学课内同步",
+    "description": "全等三角形、一次函数、分式——初中数学分水岭",
+    "tags": [
+      "全等",
+      "函数",
+      "分式",
+      "勾股定理"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g8-ms1",
+        "name": "三角形与全等",
+        "description": "SSS/SAS/ASA/AAS/HL判定、证明书写规范",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "全等"
+        ],
+        "detailedPoints": [
+          "全等三角形对应边相等对应角相等",
+          "SSS：三边对应相等",
+          "SAS：两边及其夹角",
+          "ASA：两角及其夹边",
+          "AAS：两角及一角的对边",
+          "HL：斜边和一条直角边(Rt△)"
+        ]
+      },
+      {
+        "id": "g8-ms2",
+        "name": "轴对称",
+        "description": "等腰三角形性质与判定、垂直平分线、最短路径",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "轴对称"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ms3",
+        "name": "整式乘法与因式分解",
+        "description": "平方差、完全平方、提公因式/公式法/十字相乘",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "代数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ms4",
+        "name": "分式",
+        "description": "分式运算、分式方程及增根检验",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "分式"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ms5",
+        "name": "一次函数",
+        "description": "图像性质、k/b几何意义、与方程不等式关系",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "函数"
+        ],
+        "detailedPoints": [
+          "一次函数y=kx+b(k≠0)",
+          "k>0递增k<0递减",
+          "b为y轴截距",
+          "两点确定一条直线",
+          "与x轴交点：令y=0",
+          "与y轴交点：令x=0"
+        ]
+      },
+      {
+        "id": "g8-ms6",
+        "name": "勾股定理",
+        "description": "定理证明、逆定理应用、折叠与最短路径",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "勾股"
+        ],
+        "detailedPoints": [
+          "勾股定理：a²+b²=c²",
+          "赵爽弦图证明",
+          "总统证法(面积法)",
+          "逆定理：判断直角三角形",
+          "折叠问题中的勾股应用",
+          "最短路径(展开+勾股)"
+        ]
+      },
+      {
+        "id": "g8-ms7",
+        "name": "平行四边形",
+        "description": "性质与判定、矩形菱形正方形综合",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "四边形"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二数学课内同步",
+      "children": [
+        {
+          "name": "几何",
+          "children": [
+            {
+              "name": "全等三角形",
+              "children": [
+                "SSS",
+                "SAS",
+                "ASA",
+                "AAS",
+                "HL",
+                "证明规范"
+              ]
+            },
+            {
+              "name": "轴对称",
+              "children": [
+                "等腰三角形",
+                "垂直平分线",
+                "最短路径"
+              ]
+            },
+            {
+              "name": "勾股定理",
+              "children": [
+                "定理证明",
+                "逆定理",
+                "折叠应用"
+              ]
+            },
+            {
+              "name": "平行四边形",
+              "children": [
+                "性质判定",
+                "矩形",
+                "菱形",
+                "正方形"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "代数",
+          "children": [
+            {
+              "name": "整式乘除与因式分解",
+              "children": [
+                "平方差",
+                "完全平方",
+                "提公因式",
+                "公式法",
+                "十字相乘"
+              ]
+            },
+            {
+              "name": "分式",
+              "children": [
+                "分式运算",
+                "分式方程",
+                "增根检验"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数",
+          "children": [
+            {
+              "name": "一次函数",
+              "children": [
+                "图像性质",
+                "k/b意义",
+                "与方程不等式关系"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-math-advance",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "初二数学培优拓展",
+    "description": "几何证明深化+函数综合+竞赛入门",
+    "tags": [
+      "几何证明",
+      "函数综合",
+      "竞赛"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g8-ma1",
+        "name": "全等三角形综合",
+        "description": "旋转型全等、截长补短、倍长中线",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "全等"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ma2",
+        "name": "一次函数综合",
+        "description": "与面积、等腰三角形、平行四边形综合",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "函数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ma3",
+        "name": "因式分解技巧",
+        "description": "分组分解、添项拆项、换元法",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "代数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ma4",
+        "name": "四边形综合证明",
+        "description": "中点四边形、图形变换证明",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "几何"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二数学培优拓展",
+      "children": [
+        {
+          "name": "几何深化",
+          "children": [
+            {
+              "name": "全等综合",
+              "children": [
+                "旋转型全等",
+                "截长补短",
+                "倍长中线"
+              ]
+            },
+            {
+              "name": "四边形证明",
+              "children": [
+                "中点四边形",
+                "图形变换"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数综合",
+          "children": [
+            {
+              "name": "一次函数压轴",
+              "children": [
+                "与面积综合",
+                "与等腰三角形",
+                "与平行四边形"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "代数技巧",
+          "children": [
+            {
+              "name": "因式分解进阶",
+              "children": [
+                "分组分解",
+                "添项拆项",
+                "换元法"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-math-exam",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "初二数学期中期末冲刺",
+    "description": "全等证明+函数图像+计算能力三大板块突破",
+    "tags": [
+      "复习",
+      "期末"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g8-me1",
+        "name": "全等证明专项",
+        "description": "常见辅助线作法、典型模型归纳",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "全等"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-me2",
+        "name": "一次函数专项",
+        "description": "图像信息题、应用题综合",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "函数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-me3",
+        "name": "计算综合",
+        "description": "因式分解、分式化简求值",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-me4",
+        "name": "模拟测试",
+        "description": "期中期末全真模拟",
+        "order": 4,
+        "importance": 1,
+        "tags": [
+          "模拟"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二数学期中期末冲刺",
+      "children": [
+        {
+          "name": "全等证明",
+          "children": [
+            {
+              "name": "辅助线+模型",
+              "children": [
+                "倍长中线",
+                "截长补短",
+                "旋转构造"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数图像",
+          "children": [
+            {
+              "name": "信息题+应用题",
+              "children": [
+                "图像识别",
+                "待定系数",
+                "方案设计"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "计算训练",
+          "children": [
+            {
+              "name": "因式分解+分式",
+              "children": [
+                "化简求值",
+                "解分式方程"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-chinese-sync",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初二语文课内同步",
+    "description": "说明文系统学习+文言文深化+议论文入门",
+    "tags": [
+      "说明文",
+      "文言文",
+      "议论文"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g8-cs1",
+        "name": "说明文阅读",
+        "description": "说明对象特征、说明方法作用、说明顺序",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "说明文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-cs2",
+        "name": "课内文言文",
+        "description": "《三峡》《答谢中书书》《记承天寺夜游》精讲",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-cs3",
+        "name": "散文阅读",
+        "description": "借景抒情、托物言志类散文赏析",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "散文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-cs4",
+        "name": "议论文写作入门",
+        "description": "论点论据论证、议论文结构",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-cs5",
+        "name": "名著阅读",
+        "description": "《红星照耀中国》《昆虫记》导读",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "名著"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二语文课内同步",
+      "children": [
+        {
+          "name": "说明文",
+          "children": [
+            {
+              "name": "系统学习",
+              "children": [
+                "说明对象",
+                "说明方法",
+                "说明顺序",
+                "语言特点"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "文言文",
+          "children": [
+            {
+              "name": "深化",
+              "children": [
+                "《三峡》",
+                "《答谢中书书》",
+                "《记承天寺夜游》"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作",
+          "children": [
+            {
+              "name": "议论文入门",
+              "children": [
+                "论点",
+                "论据",
+                "论证",
+                "结构"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "名著",
+          "children": [
+            {
+              "name": "阅读",
+              "children": [
+                "《红星照耀中国》",
+                "《昆虫记》"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-english-sync",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初二英语课内同步",
+    "description": "完成时+比较级+从句入门，语法全面深化",
+    "tags": [
+      "完成时",
+      "比较级",
+      "从句"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g8-es1",
+        "name": "现在完成时",
+        "description": "have/has+过去分词、since与for区别",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-es2",
+        "name": "形容词副词比较级",
+        "description": "比较级最高级变化规则、句型结构",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-es3",
+        "name": "状语从句",
+        "description": "时间条件原因让步状语从句",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "从句"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-es4",
+        "name": "情态动词",
+        "description": "can/must/should/may用法辨析",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-es5",
+        "name": "完形填空技巧",
+        "description": "上下文逻辑、词义辨析、固定搭配",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "完形"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-es6",
+        "name": "阅读理解进阶",
+        "description": "推理判断、词义猜测、主旨归纳",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二英语课内同步",
+      "children": [
+        {
+          "name": "语法",
+          "children": [
+            {
+              "name": "现在完成时",
+              "children": [
+                "have/has+done",
+                "since/for",
+                "have been to/gone to"
+              ]
+            },
+            {
+              "name": "比较级最高级",
+              "children": [
+                "规则变化",
+                "不规则变化",
+                "句型结构"
+              ]
+            },
+            {
+              "name": "状语从句",
+              "children": [
+                "时间",
+                "条件",
+                "原因",
+                "让步"
+              ]
+            },
+            {
+              "name": "情态动词",
+              "children": [
+                "can",
+                "must",
+                "should",
+                "may",
+                "might"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "技能",
+          "children": [
+            {
+              "name": "完形填空",
+              "children": [
+                "上下文逻辑",
+                "词义辨析",
+                "固定搭配"
+              ]
+            },
+            {
+              "name": "阅读理解",
+              "children": [
+                "推理判断",
+                "词义猜测",
+                "主旨归纳"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-physics-sync",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "物理",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初二物理课内同步",
+    "description": "力学核心——运动、力、压强、浮力、简单机械",
+    "tags": [
+      "力学",
+      "运动",
+      "压强",
+      "浮力"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g8-ps1",
+        "name": "机械运动",
+        "description": "长度时间测量、速度计算、参照物",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "运动"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ps2",
+        "name": "力",
+        "description": "力的三要素、重力弹力摩擦力",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "力学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ps3",
+        "name": "运动和力",
+        "description": "牛顿第一定律、二力平衡、惯性",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "牛顿"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ps4",
+        "name": "压强",
+        "description": "固体压强液体压强大气压强综合计算",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "压强"
+        ],
+        "detailedPoints": [
+          "压强定义：p=F/S(单位Pa)",
+          "液体压强：p=ρgh",
+          "连通器原理",
+          "托里拆利实验：大气压测量",
+          "大气压与海拔的关系",
+          "增大/减小压强的方法"
+        ]
+      },
+      {
+        "id": "g8-ps5",
+        "name": "浮力",
+        "description": "阿基米德原理、浮沉条件、浮力应用",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "浮力"
+        ],
+        "detailedPoints": [
+          "浮力产生原因：上下表面压力差",
+          "阿基米德原理：F浮=G排=ρ液gV排",
+          "浮沉条件：比较F浮与G物",
+          "轮船：空心增大V排",
+          "潜水艇：改变自身重力",
+          "密度计：漂浮F浮=G"
+        ]
+      },
+      {
+        "id": "g8-ps6",
+        "name": "简单机械",
+        "description": "杠杆平衡条件、滑轮组机械效率",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "机械"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-ps7",
+        "name": "功和机械能",
+        "description": "功、功率、动能势能转化",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "能量"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二物理课内同步",
+      "children": [
+        {
+          "name": "运动",
+          "children": [
+            {
+              "name": "机械运动",
+              "children": [
+                "参照物",
+                "速度",
+                "匀速直线运动"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "力",
+          "children": [
+            {
+              "name": "力的基础",
+              "children": [
+                "三要素",
+                "重力",
+                "弹力",
+                "摩擦力"
+              ]
+            },
+            {
+              "name": "运动和力",
+              "children": [
+                "牛顿第一定律",
+                "二力平衡",
+                "惯性"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "压强与浮力",
+          "children": [
+            {
+              "name": "压强",
+              "children": [
+                "固体压强",
+                "液体压强",
+                "大气压强"
+              ]
+            },
+            {
+              "name": "浮力",
+              "children": [
+                "阿基米德原理",
+                "浮沉条件",
+                "浮力应用"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "机械与能量",
+          "children": [
+            {
+              "name": "简单机械",
+              "children": [
+                "杠杆",
+                "滑轮",
+                "机械效率"
+              ]
+            },
+            {
+              "name": "功和能",
+              "children": [
+                "功",
+                "功率",
+                "动能",
+                "势能",
+                "转化"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g8-chemistry-sync",
+    "gradeId": "grade-8",
+    "gradeName": "初二",
+    "gradeSlug": "junior-2",
+    "subject": "化学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初二化学课内同步",
+    "description": "微观粒子、化学式与化合价、质量守恒定律",
+    "tags": [
+      "微观",
+      "化学式",
+      "方程式"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g8-chs1",
+        "name": "分子和原子",
+        "description": "分子原子概念、分子运动、原子结构",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "微观"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-chs2",
+        "name": "元素与元素符号",
+        "description": "元素概念、元素符号书写、元素周期表入门",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g8-chs3",
+        "name": "化学式与化合价",
+        "description": "化学式书写规则、化合价口诀、根据化合价写化学式",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "化学式"
+        ],
+        "detailedPoints": [
+          "化学式表示物质组成",
+          "化合价规则：化合物中正负化合价代数和为0",
+          "常见元素化合价口诀",
+          "根据化合价书写化学式",
+          "根据化学式计算化合价",
+          "原子团(根)的化合价"
+        ]
+      },
+      {
+        "id": "g8-chs4",
+        "name": "质量守恒定律",
+        "description": "定律内容、验证实验、化学方程式配平",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "方程式"
+        ],
+        "detailedPoints": [
+          "质量守恒定律内容",
+          "定律微观解释：原子种类数目质量不变",
+          "化学方程式书写步骤",
+          "最小公倍数法配平",
+          "奇偶法配平",
+          "根据化学方程式进行简单计算"
+        ]
+      },
+      {
+        "id": "g8-chs5",
+        "name": "碳和碳的氧化物",
+        "description": "CO与CO₂性质对比、实验室制法",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "碳"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初二化学课内同步",
+      "children": [
+        {
+          "name": "微观世界",
+          "children": [
+            {
+              "name": "分子原子",
+              "children": [
+                "分子运动",
+                "原子结构",
+                "相对原子质量"
+              ]
+            },
+            {
+              "name": "元素",
+              "children": [
+                "元素符号",
+                "元素周期表入门",
+                "地壳含量"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "化学用语",
+          "children": [
+            {
+              "name": "化学式与化合价",
+              "children": [
+                "书写规则",
+                "化合价口诀",
+                "根据化合价写化学式"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "化学定律",
+          "children": [
+            {
+              "name": "质量守恒",
+              "children": [
+                "定律验证",
+                "化学方程式",
+                "配平方法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "碳和碳的氧化物",
+          "children": [
+            {
+              "name": "碳的单质",
+              "children": [
+                "金刚石",
+                "石墨",
+                "C60"
+              ]
+            },
+            {
+              "name": "碳的氧化物",
+              "children": [
+                "CO",
+                "CO₂",
+                "性质对比",
+                "制法"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-math-sync",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初三数学课内同步",
+    "description": "二次函数、圆、相似——中考重难点大本营",
+    "tags": [
+      "二次函数",
+      "圆",
+      "相似",
+      "三角函数"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g9-ms1",
+        "name": "一元二次方程",
+        "description": "配方法、公式法、因式分解法、韦达定理",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "方程"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ms2",
+        "name": "二次函数",
+        "description": "图像性质、顶点式、最值问题、实际应用",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "二次函数"
+        ],
+        "detailedPoints": [
+          "二次函数y=ax²+bx+c(a≠0)",
+          "a决定开口方向和大小",
+          "对称轴x=-b/2a",
+          "顶点坐标公式",
+          "配方法化顶点式",
+          "与x轴交点：判别式Δ=b²-4ac"
+        ]
+      },
+      {
+        "id": "g9-ms3",
+        "name": "圆",
+        "description": "圆周角圆心角、切线判定与性质、弧长扇形面积",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "圆"
+        ],
+        "detailedPoints": [
+          "圆周角定理：同弧圆周角等于圆心角一半",
+          "直径所对圆周角=90°",
+          "切线的判定：垂直半径",
+          "切线长定理",
+          "弧长公式：l=nπr/180",
+          "扇形面积：S=nπr²/360"
+        ]
+      },
+      {
+        "id": "g9-ms4",
+        "name": "相似三角形",
+        "description": "相似判定、相似比、位似图形",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "相似"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ms5",
+        "name": "锐角三角函数",
+        "description": "正弦余弦正切、解直角三角形应用",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "三角函数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ms6",
+        "name": "概率初步",
+        "description": "列举法求概率、频率估计概率",
+        "order": 6,
+        "importance": 1,
+        "tags": [
+          "概率"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三数学课内同步",
+      "children": [
+        {
+          "name": "方程",
+          "children": [
+            {
+              "name": "一元二次方程",
+              "children": [
+                "配方法",
+                "公式法",
+                "因式分解法",
+                "韦达定理",
+                "判别式"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数",
+          "children": [
+            {
+              "name": "二次函数",
+              "children": [
+                "图像性质",
+                "顶点式",
+                "交点式",
+                "最值",
+                "实际应用"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何",
+          "children": [
+            {
+              "name": "圆",
+              "children": [
+                "圆周角圆心角",
+                "切线",
+                "弧长扇形",
+                "圆幂定理"
+              ]
+            },
+            {
+              "name": "相似",
+              "children": [
+                "相似判定",
+                "相似比",
+                "位似图形"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "三角与概率",
+          "children": [
+            {
+              "name": "锐角三角函数",
+              "children": [
+                "sin",
+                "cos",
+                "tan",
+                "解直角三角形"
+              ]
+            },
+            {
+              "name": "概率初步",
+              "children": [
+                "列举法",
+                "频率估计概率"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-math-advance",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "初三数学培优（中考压轴）",
+    "description": "二次函数压轴+圆综合+几何变换——突破中考难题",
+    "tags": [
+      "压轴",
+      "培优",
+      "中考"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g9-ma1",
+        "name": "二次函数压轴",
+        "description": "面积问题、等腰三角形存在性、平行四边形存在性",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ma2",
+        "name": "圆的综合",
+        "description": "圆与相似综合、圆幂定理应用",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "圆"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ma3",
+        "name": "几何三大变换",
+        "description": "平移旋转轴对称综合题",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "几何变换"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ma4",
+        "name": "新定义题型",
+        "description": "自定义概念阅读理解型题目",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "创新"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三数学培优(中考压轴)",
+      "children": [
+        {
+          "name": "二次函数压轴",
+          "children": [
+            {
+              "name": "存在性问题",
+              "children": [
+                "等腰三角形",
+                "平行四边形",
+                "面积问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "圆的综合",
+          "children": [
+            {
+              "name": "圆+相似",
+              "children": [
+                "圆幂定理",
+                "切线证明",
+                "共圆问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何变换",
+          "children": [
+            {
+              "name": "平移旋转轴对称",
+              "children": [
+                "最短路径",
+                "图形拼接"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "创新题型",
+          "children": [
+            {
+              "name": "新定义题",
+              "children": [
+                "阅读理解",
+                "自定义运算"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-math-exam",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "中考数学冲刺",
+    "description": "全面梳理中考核心考点，突破压轴题",
+    "tags": [
+      "中考",
+      "压轴",
+      "冲刺"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g9-me1",
+        "name": "选填速解技巧",
+        "description": "特值法、排除法、数形结合速解选填",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "技巧"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-me2",
+        "name": "函数综合压轴",
+        "description": "一次二次反比例函数综合",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": [
+          "识别函数类型(一次/反比例/二次)",
+          "分段函数分析",
+          "函数图像交点意义",
+          "最值问题在函数综合中",
+          "面积问题：分割法与补形法",
+          "存在性问题：满足条件的点坐标"
+        ]
+      },
+      {
+        "id": "g9-me3",
+        "name": "几何综合压轴",
+        "description": "圆与相似综合、动态几何",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-me4",
+        "name": "真题模拟训练",
+        "description": "近五年中考真题全真模拟",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "中考数学冲刺",
+      "children": [
+        {
+          "name": "选填速解",
+          "children": [
+            {
+              "name": "技巧",
+              "children": [
+                "特值法",
+                "排除法",
+                "数形结合",
+                "测量法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数综合",
+          "children": [
+            {
+              "name": "压轴",
+              "children": [
+                "一次+二次+反比例综合"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "几何综合",
+          "children": [
+            {
+              "name": "压轴",
+              "children": [
+                "圆+相似",
+                "动态几何",
+                "最值问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "真题模拟",
+          "children": [
+            {
+              "name": "近五年真题",
+              "children": [
+                "限时训练",
+                "评分标准",
+                "查漏补缺"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-chinese-sync",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初三语文课内同步",
+    "description": "议论文系统训练+小说戏剧阅读+中考写作专项",
+    "tags": [
+      "议论文",
+      "小说",
+      "中考写作"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g9-cs1",
+        "name": "议论文阅读",
+        "description": "论点提取、论证方法分析、论证思路梳理",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "议论文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-cs2",
+        "name": "小说阅读",
+        "description": "人物形象分析、环境描写作用、情节梳理",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "小说"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-cs3",
+        "name": "文言文深化",
+        "description": "《岳阳楼记》《醉翁亭记》等长篇文言文",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-cs4",
+        "name": "中考作文",
+        "description": "命题作文半命题作文审题立意、素材运用",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三语文课内同步",
+      "children": [
+        {
+          "name": "阅读",
+          "children": [
+            {
+              "name": "议论文",
+              "children": [
+                "论点提取",
+                "论证方法",
+                "论证思路"
+              ]
+            },
+            {
+              "name": "小说",
+              "children": [
+                "人物形象",
+                "环境作用",
+                "情节梳理"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "文言文",
+          "children": [
+            {
+              "name": "长篇精讲",
+              "children": [
+                "《岳阳楼记》",
+                "《醉翁亭记》",
+                "《出师表》"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作",
+          "children": [
+            {
+              "name": "中考作文",
+              "children": [
+                "审题",
+                "立意",
+                "素材",
+                "结构",
+                "语言"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-chinese-exam",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "语文",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "中考语文冲刺",
+    "description": "基础满分+阅读模板+作文速成+名著考点",
+    "tags": [
+      "中考",
+      "冲刺"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g9-ce1",
+        "name": "基础知识大全",
+        "description": "字音字形词语成语病句标点全梳理",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "基础"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ce2",
+        "name": "古诗文默写与鉴赏",
+        "description": "61篇必背古诗文、鉴赏答题模板",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "古诗文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ce3",
+        "name": "现代文阅读模板",
+        "description": "记叙文说明文议论文答题公式",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ce4",
+        "name": "名著考点精炼",
+        "description": "12部必读名著核心考点",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "名著"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ce5",
+        "name": "作文冲刺",
+        "description": "5大主题素材+开头结尾模板",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "作文"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "中考语文冲刺",
+      "children": [
+        {
+          "name": "基础",
+          "children": [
+            {
+              "name": "全梳理",
+              "children": [
+                "字音",
+                "字形",
+                "成语",
+                "病句",
+                "标点",
+                "文学常识"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "古诗文",
+          "children": [
+            {
+              "name": "64篇",
+              "children": [
+                "默写",
+                "鉴赏",
+                "文言翻译"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "现代文",
+          "children": [
+            {
+              "name": "三大文体",
+              "children": [
+                "记叙文",
+                "说明文",
+                "议论文答题公式"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "名著+作文",
+          "children": [
+            {
+              "name": "考点+素材",
+              "children": [
+                "12部名著",
+                "5大主题",
+                "结构模板"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-english-sync",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初三英语课内同步",
+    "description": "被动语态+定语从句+宾语从句，语法终极篇",
+    "tags": [
+      "被动语态",
+      "定语从句",
+      "宾语从句"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g9-es1",
+        "name": "被动语态",
+        "description": "各种时态被动语态构成与使用场景",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-es2",
+        "name": "宾语从句",
+        "description": "引导词、语序、时态呼应",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "从句"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-es3",
+        "name": "定语从句",
+        "description": "关系代词关系副词、限制性与非限制性",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "从句"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-es4",
+        "name": "过去完成时",
+        "description": "had+过去分词、与一般过去时区别",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "时态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-es5",
+        "name": "阅读与完形综合",
+        "description": "中考难度阅读理解+完形填空技巧",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "综合"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三英语课内同步",
+      "children": [
+        {
+          "name": "语法终篇",
+          "children": [
+            {
+              "name": "被动语态",
+              "children": [
+                "各种时态被动",
+                "主动变被动"
+              ]
+            },
+            {
+              "name": "宾语从句",
+              "children": [
+                "引导词",
+                "语序",
+                "时态呼应"
+              ]
+            },
+            {
+              "name": "定语从句",
+              "children": [
+                "关系代词",
+                "关系副词",
+                "限定/非限定"
+              ]
+            },
+            {
+              "name": "过去完成时",
+              "children": [
+                "had+done",
+                "by the time"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "综合技能",
+          "children": [
+            {
+              "name": "阅读+完形",
+              "children": [
+                "中考难度训练",
+                "长难句分析"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-english-exam",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "英语",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "中考英语冲刺",
+    "description": "听力+单选+完形+阅读+写作全题型突破",
+    "tags": [
+      "中考",
+      "全题型"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g9-ee1",
+        "name": "听力专项",
+        "description": "听前预测、听中关键词、听后检查",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "听力"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ee2",
+        "name": "单选与语法填空",
+        "description": "语法考点全覆盖、解题技巧",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ee3",
+        "name": "完形+阅读",
+        "description": "完形逻辑推理、阅读题型分类突破",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ee4",
+        "name": "书面表达",
+        "description": "书信/议论文/记叙文写作模板",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ee5",
+        "name": "真题模拟",
+        "description": "近五年中考真题全真训练",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "中考英语冲刺",
+      "children": [
+        {
+          "name": "听力",
+          "children": [
+            {
+              "name": "专项",
+              "children": [
+                "短对话",
+                "长对话",
+                "独白",
+                "听前预测"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "单选+语法填空",
+          "children": [
+            {
+              "name": "考点全覆盖",
+              "children": [
+                "时态",
+                "语态",
+                "从句",
+                "非谓语"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "完形+阅读",
+          "children": [
+            {
+              "name": "技巧",
+              "children": [
+                "上下文推理",
+                "题型分类",
+                "时间分配"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作",
+          "children": [
+            {
+              "name": "模板",
+              "children": [
+                "书信",
+                "议论文",
+                "记叙文"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-physics-sync",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "物理",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初三物理课内同步",
+    "description": "电学核心——从电路基础到电磁感应",
+    "tags": [
+      "电学",
+      "电路",
+      "电磁"
+    ],
+    "order": 8,
+    "knowledgePoints": [
+      {
+        "id": "g9-ps1",
+        "name": "电流和电路",
+        "description": "电路组成、串并联识别、电路图绘制",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "电路"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ps2",
+        "name": "电压与电阻",
+        "description": "电压表使用、电阻影响因素、滑动变阻器",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "电学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ps3",
+        "name": "欧姆定律",
+        "description": "I=U/R、伏安法测电阻、动态电路分析",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "欧姆定律"
+        ],
+        "detailedPoints": [
+          "欧姆定律I=U/R",
+          "导体电阻影响因素",
+          "伏安法测电阻",
+          "串并联电路欧姆定律应用",
+          "动态电路分析(开关/变阻器)",
+          "短路/断路的判断与处理"
+        ]
+      },
+      {
+        "id": "g9-ps4",
+        "name": "电功率",
+        "description": "P=UI、额定功率实际功率、焦耳定律",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "电功率"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-ps5",
+        "name": "电与磁",
+        "description": "电流磁效应、电磁铁、电动机发电机原理",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "电磁"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三物理课内同步",
+      "children": [
+        {
+          "name": "电学基础",
+          "children": [
+            {
+              "name": "电流和电路",
+              "children": [
+                "电路组成",
+                "串并联",
+                "电路图"
+              ]
+            },
+            {
+              "name": "电压电阻",
+              "children": [
+                "电压表",
+                "变阻器",
+                "影响因素"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电学核心",
+          "children": [
+            {
+              "name": "欧姆定律",
+              "children": [
+                "I=U/R",
+                "伏安法",
+                "动态电路"
+              ]
+            },
+            {
+              "name": "电功率",
+              "children": [
+                "P=UI",
+                "额定/实际",
+                "焦耳定律"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电磁",
+          "children": [
+            {
+              "name": "电与磁",
+              "children": [
+                "电流磁效应",
+                "电磁铁",
+                "电动机",
+                "发电机"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-physics-exam",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "物理",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "中考物理冲刺",
+    "description": "力学+电学双线复习，实验题满分策略",
+    "tags": [
+      "中考",
+      "力学",
+      "电学",
+      "实验"
+    ],
+    "order": 9,
+    "knowledgePoints": [
+      {
+        "id": "g9-pe1",
+        "name": "力学综合复习",
+        "description": "压强浮力简单机械综合计算",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "力学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-pe2",
+        "name": "电学综合复习",
+        "description": "动态电路、极值问题、电功率综合",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "电学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-pe3",
+        "name": "实验探究题",
+        "description": "控制变量法、实验设计、数据分析、误差分析",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": [
+          "控制变量法：改变一个因素控制其他",
+          "转换法：将不可见转换为可见",
+          "等效替代法",
+          "实验结论表述规范",
+          "数据表格与图像绘制",
+          "误差来源分析与减小方法"
+        ]
+      },
+      {
+        "id": "g9-pe4",
+        "name": "作图与计算",
+        "description": "力的示意图、电路图、综合计算规范",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "综合"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-pe5",
+        "name": "真题模拟",
+        "description": "近五年中考物理真题",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "中考物理冲刺",
+      "children": [
+        {
+          "name": "力学综合",
+          "children": [
+            {
+              "name": "压强浮力机械",
+              "children": [
+                "综合计算",
+                "动态分析"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电学综合",
+          "children": [
+            {
+              "name": "电路+功率",
+              "children": [
+                "动态电路",
+                "极值",
+                "综合计算"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "实验专题",
+          "children": [
+            {
+              "name": "探究题",
+              "children": [
+                "控制变量",
+                "转换法",
+                "数据分析",
+                "误差"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "作图+计算",
+          "children": [
+            {
+              "name": "规范",
+              "children": [
+                "力的示意图",
+                "电路图",
+                "计算步骤"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-chemistry-sync",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "化学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "初三化学课内同步",
+    "description": "金属、溶液、酸碱盐——中考化学核心板块",
+    "tags": [
+      "金属",
+      "溶液",
+      "酸碱盐"
+    ],
+    "order": 10,
+    "knowledgePoints": [
+      {
+        "id": "g9-chs1",
+        "name": "金属材料",
+        "description": "金属物理性质、合金、金属活动性顺序",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "金属"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-chs2",
+        "name": "金属的化学性质",
+        "description": "金属与氧气酸盐反应、置换反应",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "金属"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-chs3",
+        "name": "溶液",
+        "description": "溶解度、溶质质量分数、溶液的配制",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "溶液"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-chs4",
+        "name": "酸和碱",
+        "description": "常见酸碱性质、中和反应、pH值",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "酸碱"
+        ],
+        "detailedPoints": [
+          "常见酸：HCl/H₂SO₄/HNO₃",
+          "常见碱：NaOH/Ca(OH)₂",
+          "酸碱指示剂变色",
+          "中和反应：酸+碱→盐+水",
+          "pH试纸使用方法",
+          "酸碱性对环境的影响"
+        ]
+      },
+      {
+        "id": "g9-chs5",
+        "name": "盐 化学肥料",
+        "description": "复分解反应条件、常见盐的性质、化肥",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "盐"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "初三化学课内同步",
+      "children": [
+        {
+          "name": "金属",
+          "children": [
+            {
+              "name": "金属材料",
+              "children": [
+                "合金",
+                "金属活动性顺序"
+              ]
+            },
+            {
+              "name": "金属化学性质",
+              "children": [
+                "与氧气",
+                "与酸",
+                "与盐溶液",
+                "置换反应"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "溶液",
+          "children": [
+            {
+              "name": "溶解度+浓度",
+              "children": [
+                "溶解度曲线",
+                "溶质质量分数",
+                "配制"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "酸碱盐",
+          "children": [
+            {
+              "name": "酸和碱",
+              "children": [
+                "常见酸碱",
+                "中和反应",
+                "pH"
+              ]
+            },
+            {
+              "name": "盐+化肥",
+              "children": [
+                "复分解反应",
+                "常见盐",
+                "化肥种类"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g9-chemistry-exam",
+    "gradeId": "grade-9",
+    "gradeName": "初三",
+    "gradeSlug": "junior-3",
+    "subject": "化学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "中考化学冲刺",
+    "description": "推断题+实验探究+计算题三大题型专项突破",
+    "tags": [
+      "中考",
+      "推断",
+      "实验",
+      "计算"
+    ],
+    "order": 11,
+    "knowledgePoints": [
+      {
+        "id": "g9-che1",
+        "name": "物质推断题",
+        "description": "颜色特征、反应条件、物质转化关系梳理",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "推断"
+        ],
+        "detailedPoints": [
+          "常见物质颜色梳理",
+          "特征反应条件(高温/催化剂)",
+          "物质转化关系网络图",
+          "突破口选择技巧",
+          "检验推理的逆向思维",
+          "排除法缩小范围"
+        ]
+      },
+      {
+        "id": "g9-che2",
+        "name": "实验探究题",
+        "description": "气体制备、物质检验与鉴别、除杂",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-che3",
+        "name": "化学计算",
+        "description": "化学方程式计算、溶液计算、综合计算",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g9-che4",
+        "name": "真题模拟",
+        "description": "近五年中考化学真题",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "中考化学冲刺",
+      "children": [
+        {
+          "name": "推断题",
+          "children": [
+            {
+              "name": "物质推断",
+              "children": [
+                "颜色特征",
+                "反应条件",
+                "转化网络"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "实验题",
+          "children": [
+            {
+              "name": "探究",
+              "children": [
+                "气体制备",
+                "检验鉴别",
+                "除杂分离"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "计算题",
+          "children": [
+            {
+              "name": "综合计算",
+              "children": [
+                "方程式计算",
+                "溶液计算",
+                "纯度计算"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-math-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一数学课内同步",
+    "description": "集合、函数、三角函数——概念抽象度飞跃，打好高中数学基础",
+    "tags": [
+      "集合",
+      "函数",
+      "三角函数",
+      "向量"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g10-ms1",
+        "name": "集合与逻辑",
+        "description": "集合运算、充分必要条件、全称量词与存在量词",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "集合"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ms2",
+        "name": "不等式",
+        "description": "一元二次不等式、基本不等式(均值不等式)及其应用",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "不等式"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ms3",
+        "name": "函数概念与性质",
+        "description": "定义域值域、单调性奇偶性周期性、复合函数",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "函数"
+        ],
+        "detailedPoints": [
+          "定义域：使表达式有意义的x",
+          "值域：所有y的取值范围",
+          "单调性：增减区间的判断",
+          "奇偶性：奇函数f(-x)=-f(x)",
+          "复合函数f(g(x))的理解",
+          "抽象函数性质的推导"
+        ]
+      },
+      {
+        "id": "g10-ms4",
+        "name": "指数函数与对数函数",
+        "description": "指对数运算、图像性质、比较大小、实际应用",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "指对数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ms5",
+        "name": "三角函数",
+        "description": "任意角与弧度制、诱导公式、图像性质、恒等变换",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "三角函数"
+        ],
+        "detailedPoints": [
+          "任意角与象限角",
+          "弧度制：π弧度=180°",
+          "同角三角函数关系",
+          "诱导公式：奇变偶不变符号看象限",
+          "三角函数的图像与周期性",
+          "和差公式与倍角公式"
+        ]
+      },
+      {
+        "id": "g10-ms6",
+        "name": "平面向量",
+        "description": "向量线性运算、坐标表示、数量积及其应用",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "向量"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高一数学课内同步",
+      "children": [
+        {
+          "name": "预备知识",
+          "children": [
+            {
+              "name": "集合与逻辑",
+              "children": [
+                "集合运算",
+                "充要条件",
+                "量词"
+              ]
+            },
+            {
+              "name": "不等式",
+              "children": [
+                "一元二次不等式",
+                "基本不等式",
+                "均值不等式"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "函数",
+          "children": [
+            {
+              "name": "函数概念与性质",
+              "children": [
+                "三要素",
+                "单调性",
+                "奇偶性",
+                "周期性"
+              ]
+            },
+            {
+              "name": "指对数函数",
+              "children": [
+                "指数运算",
+                "对数运算",
+                "图像性质",
+                "比较大小"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "三角与向量",
+          "children": [
+            {
+              "name": "三角函数",
+              "children": [
+                "弧度制",
+                "诱导公式",
+                "图像",
+                "恒等变换"
+              ]
+            },
+            {
+              "name": "平面向量",
+              "children": [
+                "线性运算",
+                "坐标表示",
+                "数量积"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-math-advance",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "高一数学竞赛入门",
+    "description": "函数方程+不等式证明+竞赛一试内容衔接",
+    "tags": [
+      "竞赛",
+      "函数",
+      "不等式"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g10-ma1",
+        "name": "函数方程",
+        "description": "抽象函数性质推导、函数方程求解方法",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "函数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ma2",
+        "name": "不等式证明方法",
+        "description": "均值不等式、柯西不等式、排序不等式",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "不等式"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ma3",
+        "name": "三角函数竞赛题型",
+        "description": "三角恒等变换技巧、三角形中的恒等式",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "三角"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ma4",
+        "name": "向量与几何",
+        "description": "向量法解几何问题、奔驰定理",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "向量"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高一数学竞赛入门",
+      "children": [
+        {
+          "name": "函数方程",
+          "children": [
+            {
+              "name": "抽象函数",
+              "children": [
+                "函数方程求解",
+                "性质推导"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "不等式",
+          "children": [
+            {
+              "name": "经典不等式",
+              "children": [
+                "均值",
+                "柯西",
+                "排序"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "三角+向量",
+          "children": [
+            {
+              "name": "竞赛题型",
+              "children": [
+                "三角恒等式",
+                "向量法解几何"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-chinese-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一语文课内同步",
+    "description": "高中语文转型期：古诗文鉴赏+论述类文本+复杂记叙文",
+    "tags": [
+      "古诗文",
+      "论述类",
+      "写作"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g10-cs1",
+        "name": "古诗鉴赏方法",
+        "description": "意象意境、表现手法、情感主旨分析",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "古诗"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-cs2",
+        "name": "文言文精读",
+        "description": "《劝学》《师说》《赤壁赋》逐篇精讲",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-cs3",
+        "name": "论述类文本阅读",
+        "description": "观点提取、论证分析、逻辑推断",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "论述类"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-cs4",
+        "name": "复杂记叙文写作",
+        "description": "记叙文立意深化、夹叙夹议技法",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-cs5",
+        "name": "整本书阅读",
+        "description": "《乡土中国》核心概念与观点梳理",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "名著"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高一语文课内同步",
+      "children": [
+        {
+          "name": "古诗文",
+          "children": [
+            {
+              "name": "古诗鉴赏",
+              "children": [
+                "意象意境",
+                "表现手法",
+                "情感主旨"
+              ]
+            },
+            {
+              "name": "文言文",
+              "children": [
+                "《劝学》",
+                "《师说》",
+                "《赤壁赋》"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "现代文+写作",
+          "children": [
+            {
+              "name": "论述类文本",
+              "children": [
+                "观点提取",
+                "论证分析"
+              ]
+            },
+            {
+              "name": "记叙文写作",
+              "children": [
+                "立意深化",
+                "夹叙夹议"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "整本书",
+          "children": [
+            {
+              "name": "《乡土中国》",
+              "children": [
+                "核心概念",
+                "观点梳理"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-english-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一英语课内同步",
+    "description": "高中英语转型：词汇量爆发+复杂语法+阅读深度提升",
+    "tags": [
+      "词汇",
+      "语法",
+      "阅读",
+      "写作"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g10-es1",
+        "name": "时态语态综合",
+        "description": "16种时态系统梳理、主动被动灵活转换",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-es2",
+        "name": "非谓语动词",
+        "description": "不定式动名词分词用法辨析",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-es3",
+        "name": "名词性从句",
+        "description": "主语宾语表语同位语从句",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "从句"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-es4",
+        "name": "阅读理解提升",
+        "description": "主旨大意、推理判断、词义猜测题型训练",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-es5",
+        "name": "应用文写作",
+        "description": "书信/通知/邮件/演讲稿写作规范",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高一英语课内同步",
+      "children": [
+        {
+          "name": "语法深化",
+          "children": [
+            {
+              "name": "时态语态综合",
+              "children": [
+                "16种时态",
+                "主动被动转换"
+              ]
+            },
+            {
+              "name": "非谓语动词",
+              "children": [
+                "不定式",
+                "动名词",
+                "分词"
+              ]
+            },
+            {
+              "name": "名词性从句",
+              "children": [
+                "主语",
+                "宾语",
+                "表语",
+                "同位语从句"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "技能",
+          "children": [
+            {
+              "name": "阅读理解",
+              "children": [
+                "主旨大意",
+                "推理判断",
+                "词义猜测"
+              ]
+            },
+            {
+              "name": "应用文写作",
+              "children": [
+                "书信",
+                "通知",
+                "邮件",
+                "演讲稿"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-physics-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "物理",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一物理课内同步",
+    "description": "必修一+必修二：运动学、力学、牛顿定律——高中物理基石",
+    "tags": [
+      "运动学",
+      "力学",
+      "牛顿定律",
+      "曲线运动"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g10-ps1",
+        "name": "运动的描述",
+        "description": "质点、参考系、位移速度加速度、匀变速直线运动规律",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "运动学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ps2",
+        "name": "匀变速直线运动",
+        "description": "三个基本公式、推论、自由落体竖直上抛",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "运动学"
+        ],
+        "detailedPoints": [
+          "速度公式v=v₀+at",
+          "位移公式x=v₀t+½at²",
+          "速度位移公式v²-v₀²=2ax",
+          "平均速度等于中间时刻速度",
+          "逐差法处理打点计时器数据",
+          "自由落体：v₀=0 a=g"
+        ]
+      },
+      {
+        "id": "g10-ps3",
+        "name": "相互作用——力",
+        "description": "重力弹力摩擦力、力的合成与分解、共点力平衡",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "力学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ps4",
+        "name": "牛顿运动定律",
+        "description": "牛顿三定律、超重失重、连接体问题",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "牛顿"
+        ],
+        "detailedPoints": [
+          "牛顿第一定律(惯性定律)",
+          "牛顿第二定律F=ma",
+          "牛顿第三定律(作用力反作用力)",
+          "正交分解法解题",
+          "整体法与隔离法",
+          "超重(N>mg)与失重(N<mg)"
+        ]
+      },
+      {
+        "id": "g10-ps5",
+        "name": "曲线运动",
+        "description": "运动的合成与分解、平抛运动、圆周运动",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "曲线"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ps6",
+        "name": "万有引力与航天",
+        "description": "开普勒定律、万有引力定律应用、宇宙速度",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "航天"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-ps7",
+        "name": "机械能守恒定律",
+        "description": "功和功率、动能定理、机械能守恒、功能关系",
+        "order": 7,
+        "importance": 3,
+        "tags": [
+          "能量"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高一物理",
+      "children": [
+        {
+          "name": "运动学",
+          "children": [
+            {
+              "name": "匀变速直线运动",
+              "children": [
+                "三大公式",
+                "推论",
+                "自由落体",
+                "竖直上抛"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "力学",
+          "children": [
+            {
+              "name": "牛顿定律",
+              "children": [
+                "三定律",
+                "超重失重",
+                "连接体",
+                "临界问题"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "曲线运动",
+          "children": [
+            {
+              "name": "平抛+圆周",
+              "children": [
+                "运动的合成",
+                "平抛规律",
+                "向心力"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "万有引力",
+          "children": [
+            {
+              "name": "天体运动",
+              "children": [
+                "开普勒定律",
+                "万有引力计算",
+                "宇宙速度"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "机械能",
+          "children": [
+            {
+              "name": "能量守恒",
+              "children": [
+                "功",
+                "动能定理",
+                "机械能守恒"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g10-chemistry-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "化学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一化学课内同步",
+    "description": "物质的量+离子反应+氧化还原——高中化学分水岭",
+    "tags": [
+      "物质的量",
+      "离子反应",
+      "氧化还原",
+      "元素化学"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g10-chs1",
+        "name": "物质的量",
+        "description": "n/N/NA/M/Vm/c公式体系、阿伏加德罗定律",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "计算"
+        ],
+        "detailedPoints": [
+          "物质的量n(mol)",
+          "阿伏加德罗常数NA=6.02×10²³",
+          "摩尔质量M(g/mol)",
+          "气体摩尔体积Vm≈22.4L/mol(STP)",
+          "物质的量浓度c=n/V",
+          "各物理量之间的换算关系"
+        ]
+      },
+      {
+        "id": "g10-chs2",
+        "name": "离子反应",
+        "description": "电解质与非电解质、离子方程式书写与正误判断",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "离子"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-chs3",
+        "name": "氧化还原反应",
+        "description": "化合价升降、电子转移、氧化性还原性强弱比较",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "氧化还原"
+        ],
+        "detailedPoints": [
+          "化合价升降法判断氧化还原",
+          "氧化剂得电子被还原",
+          "还原剂失电子被氧化",
+          "氧化性/还原性强弱比较",
+          "氧化还原反应配平",
+          "电子守恒法计算"
+        ]
+      },
+      {
+        "id": "g10-chs4",
+        "name": "钠及其化合物",
+        "description": "Na/Na₂O/Na₂O₂/Na₂CO₃/NaHCO₃性质与转化",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-chs5",
+        "name": "氯及其化合物",
+        "description": "Cl₂性质、HClO漂白性、氯水成分、实验室制法",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-chs6",
+        "name": "铁及其化合物",
+        "description": "Fe²⁺/Fe³⁺转化与检验、铁的氧化物氢氧化物",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-chs7",
+        "name": "硫及其化合物",
+        "description": "SO₂性质与检验、浓硫酸特性、硫酸工业",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": null
+  },
+  {
+    "id": "g10-biology-sync",
+    "gradeId": "grade-10",
+    "gradeName": "高一",
+    "gradeSlug": "senior-1",
+    "subject": "生物",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高一生物课内同步",
+    "description": "必修一：细胞的分子组成、结构、代谢——生命科学基础",
+    "tags": [
+      "细胞",
+      "分子",
+      "代谢",
+      "光合呼吸"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g10-bs1",
+        "name": "细胞的分子组成",
+        "description": "蛋白质核酸糖类脂质结构与功能",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "分子"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-bs2",
+        "name": "细胞的结构",
+        "description": "细胞膜细胞器细胞核、原核与真核细胞区别",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "结构"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-bs3",
+        "name": "物质的跨膜运输",
+        "description": "自由扩散协助扩散主动运输胞吞胞吐",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "运输"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-bs4",
+        "name": "酶与ATP",
+        "description": "酶的特性、影响酶活性的因素、ATP结构功能",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "酶"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g10-bs5",
+        "name": "细胞呼吸",
+        "description": "有氧呼吸三个阶段、无氧呼吸、影响呼吸的因素",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "呼吸"
+        ],
+        "detailedPoints": [
+          "有氧呼吸：C₆H₁₂O₆+6O₂→6CO₂+6H₂O+能量",
+          "第一阶段：糖酵解(细胞质基质)",
+          "第二阶段：柠檬酸循环(线粒体基质)",
+          "第三阶段：电子传递链(线粒体内膜)",
+          "无氧呼吸：产生乳酸或酒精+CO₂",
+          "影响呼吸作用的因素：温度氧气浓度等"
+        ]
+      },
+      {
+        "id": "g10-bs6",
+        "name": "光合作用",
+        "description": "光反应暗反应、C3C5变化、影响光合的因素",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "光合"
+        ],
+        "detailedPoints": [
+          "光合作用：6CO₂+12H₂O→C₆H₁₂O₆+6O₂+6H₂O",
+          "光反应场所：类囊体薄膜",
+          "光反应产物：ATP [H] O₂",
+          "暗反应场所：叶绿体基质",
+          "暗反应：CO₂固定+C3还原",
+          "影响光合作用的因素：光照CO₂温度"
+        ]
+      },
+      {
+        "id": "g10-bs7",
+        "name": "细胞的生命历程",
+        "description": "有丝分裂、细胞分化、衰老与凋亡",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "分裂"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": null
+  },
+  {
+    "id": "g11-math-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "数学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二数学课内同步",
+    "description": "解析几何、数列、导数、立体几何——高考核心四大板块",
+    "tags": [
+      "解析几何",
+      "数列",
+      "导数",
+      "立体几何",
+      "概率"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g11-ms1",
+        "name": "空间向量与立体几何",
+        "description": "空间直角坐标系、线面角二面角、距离计算",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "立体几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ms2",
+        "name": "直线与圆的方程",
+        "description": "直线方程五种形式、圆的方程、位置关系",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "解析几何"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ms3",
+        "name": "圆锥曲线",
+        "description": "椭圆双曲线抛物线定义性质、弦长面积、定点定值",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "圆锥曲线"
+        ],
+        "detailedPoints": [
+          "椭圆定义：PF₁+PF₂=2a",
+          "双曲线定义：|PF₁-PF₂|=2a",
+          "抛物线定义：PF=d",
+          "离心率e=c/a",
+          "弦长公式",
+          "点差法求中点弦"
+        ]
+      },
+      {
+        "id": "g11-ms4",
+        "name": "数列",
+        "description": "等差等比数列、递推求通项、求和、数学归纳法",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "数列"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ms5",
+        "name": "导数及其应用",
+        "description": "导数定义运算、切线、单调性极值最值、恒成立",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "导数"
+        ],
+        "detailedPoints": [
+          "导数定义与几何意义",
+          "基本求导公式",
+          "导数的四则运算",
+          "复合函数求导",
+          "用导数判断单调性",
+          "用导数求极值与最值"
+        ]
+      },
+      {
+        "id": "g11-ms6",
+        "name": "计数原理",
+        "description": "排列组合、二项式定理",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "计数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ms7",
+        "name": "随机变量及其分布",
+        "description": "条件概率、全概率公式、分布列期望方差",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "概率"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二数学课内同步",
+      "children": [
+        {
+          "name": "解析几何",
+          "children": [
+            {
+              "name": "直线与圆",
+              "children": [
+                "直线方程五种形式",
+                "圆的方程",
+                "位置关系"
+              ]
+            },
+            {
+              "name": "圆锥曲线",
+              "children": [
+                "椭圆",
+                "双曲线",
+                "抛物线",
+                "弦长面积",
+                "定点定值"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "数列与导数",
+          "children": [
+            {
+              "name": "数列",
+              "children": [
+                "等差等比",
+                "递推",
+                "求和",
+                "数学归纳法"
+              ]
+            },
+            {
+              "name": "导数",
+              "children": [
+                "定义",
+                "运算",
+                "切线",
+                "单调性",
+                "极值",
+                "最值",
+                "恒成立"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "概率统计",
+          "children": [
+            {
+              "name": "计数原理",
+              "children": [
+                "排列组合",
+                "二项式定理"
+              ]
+            },
+            {
+              "name": "随机变量",
+              "children": [
+                "条件概率",
+                "全概率",
+                "分布列",
+                "期望",
+                "方差"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "立体几何",
+          "children": [
+            {
+              "name": "空间向量",
+              "children": [
+                "坐标系",
+                "线面角",
+                "二面角",
+                "距离"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-math-advance",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "数学",
+    "routeType": "advance",
+    "routeTypeName": "课外培优拓展",
+    "title": "高二数学培优（竞赛方向）",
+    "description": "不等式证明深化+数列放缩+导数高级技巧",
+    "tags": [
+      "竞赛",
+      "不等式",
+      "导数"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g11-ma1",
+        "name": "不等式证明进阶",
+        "description": "柯西不等式、排序不等式、琴生不等式",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "不等式"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ma2",
+        "name": "数列放缩法",
+        "description": "裂项放缩、等比放缩、均值放缩",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "数列"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ma3",
+        "name": "导数高级技巧",
+        "description": "隐零点、极值点偏移、双变量处理、端点效应",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "导数"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ma4",
+        "name": "解析几何技巧",
+        "description": "齐次化处理、非对称韦达、设而不求",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "解析几何"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二数学培优(竞赛方向)",
+      "children": [
+        {
+          "name": "不等式进阶",
+          "children": [
+            {
+              "name": "经典不等式",
+              "children": [
+                "柯西",
+                "排序",
+                "琴生"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "数列放缩",
+          "children": [
+            {
+              "name": "放缩法",
+              "children": [
+                "裂项放缩",
+                "等比放缩",
+                "均值放缩"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "导数技巧",
+          "children": [
+            {
+              "name": "高级技巧",
+              "children": [
+                "隐零点",
+                "极值点偏移",
+                "双变量",
+                "端点效应"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "解析几何技巧",
+          "children": [
+            {
+              "name": "高级方法",
+              "children": [
+                "齐次化",
+                "非对称韦达",
+                "设而不求"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-chinese-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "语文",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二语文课内同步",
+    "description": "诗歌鉴赏深化+小说阅读+议论文写作全面提升",
+    "tags": [
+      "诗歌",
+      "小说",
+      "议论文",
+      "文言文"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g11-cs1",
+        "name": "诗歌鉴赏专题",
+        "description": "形象语言表达技巧思想情感四大维度系统训练",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "诗歌"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-cs2",
+        "name": "小说阅读专题",
+        "description": "人物情节环境主题四要素分析模板",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "小说"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-cs3",
+        "name": "文言文深化",
+        "description": "《逍遥游》《陈情表》《项脊轩志》等名篇精讲",
+        "order": 3,
+        "importance": 2,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-cs4",
+        "name": "议论文写作进阶",
+        "description": "审题立意、论证方法、结构布局",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-cs5",
+        "name": "语言文字运用",
+        "description": "成语辨析、病句修改、补写句子、图文转换",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "语用"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二语文课内同步",
+      "children": [
+        {
+          "name": "诗歌鉴赏",
+          "children": [
+            {
+              "name": "专题训练",
+              "children": [
+                "形象",
+                "语言",
+                "技巧",
+                "情感四大维度"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "小说阅读",
+          "children": [
+            {
+              "name": "专题训练",
+              "children": [
+                "人物",
+                "情节",
+                "环境",
+                "主题四要素"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作进阶",
+          "children": [
+            {
+              "name": "议论文",
+              "children": [
+                "审题立意",
+                "论证方法",
+                "结构布局"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "语言文字运用",
+          "children": [
+            {
+              "name": "全部题型",
+              "children": [
+                "成语",
+                "病句",
+                "补写",
+                "图文转换"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-english-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "英语",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二英语课内同步",
+    "description": "虚拟语气+倒装+强调+省略——特殊句式全掌握",
+    "tags": [
+      "虚拟语气",
+      "特殊句式",
+      "阅读",
+      "写作"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g11-es1",
+        "name": "虚拟语气",
+        "description": "条件虚拟、名词性从句虚拟、wish/as if用法",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-es2",
+        "name": "倒装与强调",
+        "description": "部分倒装全部倒装、强调句型It is...that...",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-es3",
+        "name": "定语从句进阶",
+        "description": "介词+关系代词、限定性与非限定性辨析",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "从句"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-es4",
+        "name": "七选五与完形填空",
+        "description": "语篇逻辑分析、衔接词判断、语境推理",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-es5",
+        "name": "读后续写",
+        "description": "新高考题型——阅读+续写技巧训练",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二英语课内同步",
+      "children": [
+        {
+          "name": "语法终篇",
+          "children": [
+            {
+              "name": "虚拟语气",
+              "children": [
+                "条件虚拟",
+                "名词性从句虚拟",
+                "wish/as if"
+              ]
+            },
+            {
+              "name": "倒装与强调",
+              "children": [
+                "完全倒装",
+                "部分倒装",
+                "It is...that..."
+              ]
+            },
+            {
+              "name": "定语从句进阶",
+              "children": [
+                "介词+关系代词",
+                "限定/非限定"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "新高考题型",
+          "children": [
+            {
+              "name": "七选五",
+              "children": [
+                "逻辑分析",
+                "衔接词判断"
+              ]
+            },
+            {
+              "name": "读后续写",
+              "children": [
+                "阅读+续写技巧"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-physics-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "物理",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二物理课内同步",
+    "description": "电磁学核心——电场磁场电磁感应，高考分值占比最大",
+    "tags": [
+      "电场",
+      "磁场",
+      "电磁感应",
+      "恒定电流"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g11-ps1",
+        "name": "静电场",
+        "description": "库仑定律、电场强度、电势电势差电势能、电容器",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "电场"
+        ],
+        "detailedPoints": [
+          "库仑定律F=kQ₁Q₂/r²",
+          "电场强度E=F/q",
+          "电场线特点",
+          "电势能与电势",
+          "电势差U=W/q",
+          "电容器C=Q/U"
+        ]
+      },
+      {
+        "id": "g11-ps2",
+        "name": "带电粒子在电场中运动",
+        "description": "加速与偏转、示波管原理、等效重力场",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "电场"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ps3",
+        "name": "恒定电流",
+        "description": "欧姆定律、闭合电路欧姆定律、电功率、电学实验",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "电路"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ps4",
+        "name": "磁场",
+        "description": "安培力、洛伦兹力、带电粒子在磁场中圆周运动",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "磁场"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-ps5",
+        "name": "电磁感应",
+        "description": "法拉第电磁感应定律、楞次定律、动生感生电动势",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "电磁感应"
+        ],
+        "detailedPoints": [
+          "法拉第电磁感应定律E=nΔΦ/Δt",
+          "楞次定律：感应电流的磁场阻碍变化",
+          "动生电动势E=BLv",
+          "感生电动势",
+          "自感现象",
+          "涡流及其应用"
+        ]
+      },
+      {
+        "id": "g11-ps6",
+        "name": "交变电流与变压器",
+        "description": "正弦交流电、理想变压器、远距离输电",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "交流电"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二物理课内同步",
+      "children": [
+        {
+          "name": "电场",
+          "children": [
+            {
+              "name": "静电场",
+              "children": [
+                "库仑定律",
+                "电场强度",
+                "电势能",
+                "电势差",
+                "电容器"
+              ]
+            },
+            {
+              "name": "带电粒子运动",
+              "children": [
+                "加速",
+                "偏转",
+                "示波管",
+                "等效重力场"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电路",
+          "children": [
+            {
+              "name": "恒定电流",
+              "children": [
+                "欧姆定律",
+                "闭合电路",
+                "电功率",
+                "电学实验"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "磁场+电磁感应",
+          "children": [
+            {
+              "name": "磁场",
+              "children": [
+                "安培力",
+                "洛伦兹力",
+                "圆周运动"
+              ]
+            },
+            {
+              "name": "电磁感应",
+              "children": [
+                "法拉第定律",
+                "楞次定律",
+                "动生感生"
+              ]
+            },
+            {
+              "name": "交变电流",
+              "children": [
+                "变压器",
+                "远距离输电"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-chemistry-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "化学",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二化学课内同步",
+    "description": "选修一+选修二：化学反应原理+物质结构——理论化学核心",
+    "tags": [
+      "反应原理",
+      "平衡",
+      "结构",
+      "有机"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g11-chs1",
+        "name": "化学反应与能量",
+        "description": "反应热、热化学方程式、盖斯定律、燃烧热中和热",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "热化学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-chs2",
+        "name": "化学反应速率",
+        "description": "速率计算、影响因素、有效碰撞理论",
+        "order": 2,
+        "importance": 2,
+        "tags": [
+          "速率"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-chs3",
+        "name": "化学平衡",
+        "description": "平衡常数、勒夏特列原理、等效平衡、图像分析",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "平衡"
+        ],
+        "detailedPoints": [
+          "化学平衡常数Kc的表达式",
+          "Kc的意义：越大反应越完全",
+          "勒夏特列原理：改变条件平衡向减弱方向移动",
+          "浓度/温度/压强对平衡的影响",
+          "催化剂只改变速率不改变平衡",
+          "等效平衡的判断与构建"
+        ]
+      },
+      {
+        "id": "g11-chs4",
+        "name": "水溶液中的离子平衡",
+        "description": "弱电解质电离、水的电离、盐类水解、沉淀溶解平衡",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "离子平衡"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-chs5",
+        "name": "原子结构与性质",
+        "description": "能层能级、电子排布、电离能电负性",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "结构"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-chs6",
+        "name": "分子结构与晶体",
+        "description": "共价键、杂化轨道、VSEPR模型、分子间作用力、晶胞计算",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "结构"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-chs7",
+        "name": "有机化学基础",
+        "description": "烃的分类命名、同分异构、取代加成反应",
+        "order": 7,
+        "importance": 3,
+        "tags": [
+          "有机"
+        ],
+        "detailedPoints": [
+          "烷烃通式CnH₂n₊₂",
+          "烯烃通式CnH₂n",
+          "炔烃通式CnH₂n₋₂",
+          "苯及其同系物",
+          "系统命名法规则",
+          "同分异构体书写方法"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "高二化学课内同步",
+      "children": [
+        {
+          "name": "反应原理",
+          "children": [
+            {
+              "name": "热化学",
+              "children": [
+                "反应热",
+                "盖斯定律",
+                "燃烧热",
+                "中和热"
+              ]
+            },
+            {
+              "name": "速率与平衡",
+              "children": [
+                "速率计算",
+                "平衡常数",
+                "勒夏特列",
+                "等效平衡"
+              ]
+            },
+            {
+              "name": "离子平衡",
+              "children": [
+                "弱电解质",
+                "水的电离",
+                "水解",
+                "沉淀溶解"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "物质结构",
+          "children": [
+            {
+              "name": "原子结构",
+              "children": [
+                "能层能级",
+                "电子排布",
+                "电离能",
+                "电负性"
+              ]
+            },
+            {
+              "name": "分子与晶体",
+              "children": [
+                "共价键",
+                "杂化",
+                "VSEPR",
+                "晶胞计算"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "有机化学",
+          "children": [
+            {
+              "name": "基础",
+              "children": [
+                "烃的分类",
+                "命名",
+                "同分异构",
+                "取代",
+                "加成"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g11-biology-sync",
+    "gradeId": "grade-11",
+    "gradeName": "高二",
+    "gradeSlug": "senior-2",
+    "subject": "生物",
+    "routeType": "sync",
+    "routeTypeName": "课内同步提升",
+    "title": "高二生物课内同步",
+    "description": "必修二+选择性必修：遗传变异+稳态调节——高考难点",
+    "tags": [
+      "遗传",
+      "变异",
+      "稳态",
+      "调节"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g11-bs1",
+        "name": "遗传的基本规律",
+        "description": "分离定律自由组合定律、基因型表现型推断",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "遗传"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs2",
+        "name": "伴性遗传",
+        "description": "伴X显性/隐性、伴Y遗传、系谱图分析",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "遗传"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs3",
+        "name": "DNA复制与基因表达",
+        "description": "DNA半保留复制、转录翻译、中心法则",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "分子"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs4",
+        "name": "生物的变异",
+        "description": "基因突变基因重组染色体变异、育种方法",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "变异"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs5",
+        "name": "内环境与稳态",
+        "description": "血浆组织液淋巴、pH渗透压体温调节",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "稳态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs6",
+        "name": "神经调节",
+        "description": "反射弧、兴奋传导、突触传递",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "神经"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g11-bs7",
+        "name": "体液调节与免疫",
+        "description": "激素调节、血糖调节、特异性免疫过程",
+        "order": 7,
+        "importance": 3,
+        "tags": [
+          "调节"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高二生物课内同步",
+      "children": [
+        {
+          "name": "遗传",
+          "children": [
+            {
+              "name": "遗传规律",
+              "children": [
+                "分离定律",
+                "自由组合",
+                "基因型表现型"
+              ]
+            },
+            {
+              "name": "伴性遗传",
+              "children": [
+                "伴X显/隐",
+                "伴Y",
+                "系谱图"
+              ]
+            },
+            {
+              "name": "分子基础",
+              "children": [
+                "DNA复制",
+                "转录",
+                "翻译",
+                "中心法则"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "变异与进化",
+          "children": [
+            {
+              "name": "变异",
+              "children": [
+                "基因突变",
+                "基因重组",
+                "染色体变异",
+                "育种"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "稳态与调节",
+          "children": [
+            {
+              "name": "内环境",
+              "children": [
+                "血浆",
+                "组织液",
+                "淋巴",
+                "稳态"
+              ]
+            },
+            {
+              "name": "神经调节",
+              "children": [
+                "反射弧",
+                "兴奋传导",
+                "突触"
+              ]
+            },
+            {
+              "name": "体液+免疫",
+              "children": [
+                "激素调节",
+                "血糖",
+                "特异性免疫"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-math-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考数学第一轮复习",
+    "description": "系统梳理高中数学全部知识点，构建完整知识体系",
+    "tags": [
+      "高考",
+      "一轮复习",
+      "基础巩固"
+    ],
+    "order": 1,
+    "knowledgePoints": [
+      {
+        "id": "g12-me1",
+        "name": "集合与常用逻辑用语",
+        "description": "集合运算、充要条件、量词",
+        "order": 1,
+        "importance": 1,
+        "tags": [
+          "基础"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me2",
+        "name": "函数",
+        "description": "三要素、四大性质、基本初等函数、函数与方程",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "核心"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me3",
+        "name": "导数及其应用",
+        "description": "运算、切线、单调性极值最值、恒成立、零点",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": [
+          "导数运算的基本方法",
+          "切线方程求法",
+          "单调区间判断",
+          "极值与最值区别",
+          "恒成立求参数范围",
+          "零点存在性证明"
+        ]
+      },
+      {
+        "id": "g12-me4",
+        "name": "三角函数与解三角形",
+        "description": "恒等变换、图像性质、正余弦定理应用",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "三角"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me5",
+        "name": "平面向量与复数",
+        "description": "向量运算、坐标表示、复数四则运算",
+        "order": 5,
+        "importance": 1,
+        "tags": [
+          "工具"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me6",
+        "name": "数列",
+        "description": "等差等比、递推、求和、数学归纳法",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "数列"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me7",
+        "name": "立体几何",
+        "description": "位置关系、空间角与距离、外接球内切球",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "立体"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me8",
+        "name": "解析几何",
+        "description": "直线与圆、圆锥曲线、弦长面积、定点定值范围",
+        "order": 8,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": [
+          "直线方程的合理选择",
+          "圆的标准方程与一般方程",
+          "椭圆标准方程与性质",
+          "双曲线标准方程与性质",
+          "抛物线标准方程与性质",
+          "弦长公式+点到直线距离"
+        ]
+      },
+      {
+        "id": "g12-me9",
+        "name": "概率统计",
+        "description": "排列组合、二项式定理、分布列、统计案例",
+        "order": 9,
+        "importance": 2,
+        "tags": [
+          "概率"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考数学一轮复习",
+      "children": [
+        {
+          "name": "基础板块",
+          "children": [
+            {
+              "name": "集合与逻辑",
+              "children": [
+                "运算",
+                "充要条件",
+                "量词"
+              ]
+            },
+            {
+              "name": "函数",
+              "children": [
+                "三要素",
+                "性质",
+                "基本初等函数"
+              ]
+            },
+            {
+              "name": "三角与向量",
+              "children": [
+                "恒等变换",
+                "正余弦定理",
+                "向量运算"
+              ]
+            },
+            {
+              "name": "复数",
+              "children": [
+                "四则运算",
+                "几何意义"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "核心板块",
+          "children": [
+            {
+              "name": "导数",
+              "children": [
+                "运算",
+                "切线",
+                "单调性",
+                "极值最值",
+                "恒成立"
+              ]
+            },
+            {
+              "name": "数列",
+              "children": [
+                "等差等比",
+                "递推",
+                "求和",
+                "数学归纳法"
+              ]
+            },
+            {
+              "name": "立体几何",
+              "children": [
+                "位置关系",
+                "空间角",
+                "外接球",
+                "内切球"
+              ]
+            },
+            {
+              "name": "解析几何",
+              "children": [
+                "直线圆",
+                "圆锥曲线",
+                "弦长",
+                "定点定值"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "统计概率",
+          "children": [
+            {
+              "name": "排列组合+分布列",
+              "children": [
+                "二项式定理",
+                "概率模型",
+                "统计案例"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-math-exam2",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "数学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考数学二三轮冲刺",
+    "description": "专题突破+模拟训练+查漏补缺，冲刺140+",
+    "tags": [
+      "高考",
+      "冲刺",
+      "压轴"
+    ],
+    "order": 2,
+    "knowledgePoints": [
+      {
+        "id": "g12-me2-1",
+        "name": "选填速解",
+        "description": "特值法、排除法、数形结合、极限法",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "技巧"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me2-2",
+        "name": "导数压轴突破",
+        "description": "恒成立求参、极值点偏移、隐零点、双变量",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me2-3",
+        "name": "解析几何压轴突破",
+        "description": "定点定值、范围最值、轨迹方程",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "压轴"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me2-4",
+        "name": "新定义创新题",
+        "description": "阅读理解型、数学文化背景题",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "创新"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-me2-5",
+        "name": "全真模拟",
+        "description": "近三年高考真题+名校模拟卷",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "真题"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考数学二三轮冲刺",
+      "children": [
+        {
+          "name": "选填速解",
+          "children": [
+            {
+              "name": "技巧大全",
+              "children": [
+                "特值法",
+                "排除法",
+                "数形结合",
+                "极限法"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "导数压轴",
+          "children": [
+            {
+              "name": "高级技巧",
+              "children": [
+                "恒成立",
+                "极值点偏移",
+                "隐零点",
+                "双变量"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "解析几何压轴",
+          "children": [
+            {
+              "name": "高级技巧",
+              "children": [
+                "定点定值",
+                "范围最值",
+                "非对称"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "新定义+模拟",
+          "children": [
+            {
+              "name": "创新题+真题",
+              "children": [
+                "阅读理解型",
+                "文化背景题",
+                "名校模拟"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-chinese-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "语文",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考语文系统复习",
+    "description": "现代文+古诗文+语用+作文四大板块全面复习",
+    "tags": [
+      "高考",
+      "系统复习",
+      "作文"
+    ],
+    "order": 3,
+    "knowledgePoints": [
+      {
+        "id": "g12-ce1",
+        "name": "论述类与实用类文本",
+        "description": "选择题辨析技巧、主观题答题规范",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "现代文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce2",
+        "name": "文学类文本阅读",
+        "description": "小说散文鉴赏、作用题/含义题/技巧题答题公式",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "现代文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce3",
+        "name": "文言文阅读",
+        "description": "断句、文化常识、翻译、内容概括",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "文言文"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce4",
+        "name": "古代诗歌鉴赏",
+        "description": "形象/语言/技巧/情感四大考点答题模板",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "诗歌"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce5",
+        "name": "名篇名句默写",
+        "description": "64篇必背篇目情景式默写训练",
+        "order": 5,
+        "importance": 2,
+        "tags": [
+          "默写"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce6",
+        "name": "语言文字运用",
+        "description": "成语、病句、补写、压缩、仿写全题型",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "语用"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ce7",
+        "name": "高考作文",
+        "description": "任务驱动型作文审题立意、素材运用、结构模板",
+        "order": 7,
+        "importance": 3,
+        "tags": [
+          "作文"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考语文系统复习",
+      "children": [
+        {
+          "name": "现代文阅读",
+          "children": [
+            {
+              "name": "论述类+实用类",
+              "children": [
+                "选择题辨析",
+                "主观题规范"
+              ]
+            },
+            {
+              "name": "文学类",
+              "children": [
+                "小说",
+                "散文",
+                "答题公式"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "古诗文",
+          "children": [
+            {
+              "name": "文言文",
+              "children": [
+                "断句",
+                "常识",
+                "翻译",
+                "概括"
+              ]
+            },
+            {
+              "name": "诗歌鉴赏",
+              "children": [
+                "四大考点",
+                "答题模板"
+              ]
+            },
+            {
+              "name": "默写",
+              "children": [
+                "64篇情景式默写"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "语用+作文",
+          "children": [
+            {
+              "name": "语言文字运用",
+              "children": [
+                "成语",
+                "病句",
+                "补写",
+                "压缩",
+                "仿写"
+              ]
+            },
+            {
+              "name": "高考作文",
+              "children": [
+                "任务驱动型",
+                "审题立意",
+                "素材运用"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-english-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "英语",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考英语系统复习",
+    "description": "词汇+语法+阅读+写作+听力全题型突破",
+    "tags": [
+      "高考",
+      "全题型",
+      "冲刺"
+    ],
+    "order": 4,
+    "knowledgePoints": [
+      {
+        "id": "g12-ee1",
+        "name": "高考3500词分类记忆",
+        "description": "高频词、一词多义、熟词生义、词块搭配",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "词汇"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ee2",
+        "name": "语法填空与改错",
+        "description": "语法填空考点分布、短文改错规律总结",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "语法"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ee3",
+        "name": "阅读理解",
+        "description": "ABCD四篇阅读解题策略、七选五逻辑分析",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "阅读"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ee4",
+        "name": "完形填空",
+        "description": "上下文线索、词汇复现、逻辑推理",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "完形"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ee5",
+        "name": "书面表达",
+        "description": "应用文写作模板+读后续写技巧",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "写作"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-ee6",
+        "name": "听力专项",
+        "description": "短对话长对话独白三大题型训练",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "听力"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考英语系统复习",
+      "children": [
+        {
+          "name": "词汇",
+          "children": [
+            {
+              "name": "3500词",
+              "children": [
+                "高频词",
+                "一词多义",
+                "熟词生义",
+                "词块搭配"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "语法",
+          "children": [
+            {
+              "name": "填空+改错",
+              "children": [
+                "考点分布",
+                "规律总结"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "阅读完形",
+          "children": [
+            {
+              "name": "解题策略",
+              "children": [
+                "ABCD四篇",
+                "七选五",
+                "完形"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "写作听力",
+          "children": [
+            {
+              "name": "书面表达+听力",
+              "children": [
+                "应用文模板",
+                "读后续写",
+                "短对话",
+                "长对话"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-physics-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "物理",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考物理系统复习",
+    "description": "力学+电磁学双线并进，实验+计算全面突破",
+    "tags": [
+      "高考",
+      "力学",
+      "电磁学",
+      "实验"
+    ],
+    "order": 5,
+    "knowledgePoints": [
+      {
+        "id": "g12-pe1",
+        "name": "力与运动",
+        "description": "牛顿定律、曲线运动、万有引力综合",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "力学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-pe2",
+        "name": "功和能",
+        "description": "动能定理、机械能守恒、功能关系综合应用",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "能量"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-pe3",
+        "name": "动量与冲量",
+        "description": "动量定理、动量守恒、碰撞模型",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "动量"
+        ],
+        "detailedPoints": [
+          "动量p=mv",
+          "冲量I=Ft",
+          "动量定理I=Δp",
+          "动量守恒条件",
+          "弹性碰撞(动能守恒)",
+          "完全非弹性碰撞(共速)"
+        ]
+      },
+      {
+        "id": "g12-pe4",
+        "name": "电场与磁场",
+        "description": "带电粒子在电磁场中运动综合",
+        "order": 4,
+        "importance": 3,
+        "tags": [
+          "电磁学"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-pe5",
+        "name": "电磁感应综合",
+        "description": "与电路、力学、能量综合问题",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "电磁感应"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-pe6",
+        "name": "物理实验专题",
+        "description": "力学实验+电学实验全部考点、创新实验",
+        "order": 6,
+        "importance": 3,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": [
+          "打点计时器测加速度",
+          "探究加速度与力质量的关系",
+          "伏安法测电阻(内接/外接)",
+          "测电源电动势与内阻",
+          "游标卡尺与螺旋测微器读数",
+          "实验误差分析"
+        ]
+      },
+      {
+        "id": "g12-pe7",
+        "name": "选考模块",
+        "description": "热学/机械振动与波/光学三选一",
+        "order": 7,
+        "importance": 2,
+        "tags": [
+          "选考"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考物理系统复习",
+      "children": [
+        {
+          "name": "力学",
+          "children": [
+            {
+              "name": "力与运动",
+              "children": [
+                "牛顿定律",
+                "曲线运动",
+                "万有引力"
+              ]
+            },
+            {
+              "name": "功和能",
+              "children": [
+                "动能定理",
+                "机械能守恒",
+                "功能关系"
+              ]
+            },
+            {
+              "name": "动量",
+              "children": [
+                "动量定理",
+                "动量守恒",
+                "碰撞模型"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "电磁学",
+          "children": [
+            {
+              "name": "电场磁场",
+              "children": [
+                "带电粒子运动",
+                "复合场"
+              ]
+            },
+            {
+              "name": "电磁感应",
+              "children": [
+                "与电路、力学、能量综合"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "实验+选考",
+          "children": [
+            {
+              "name": "实验专题",
+              "children": [
+                "力学实验",
+                "电学实验",
+                "创新实验"
+              ]
+            },
+            {
+              "name": "选考",
+              "children": [
+                "热学",
+                "振动波",
+                "光学"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-chemistry-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "化学",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考化学系统复习",
+    "description": "原理+元素+有机+实验四大模块，选择题+大题全覆盖",
+    "tags": [
+      "高考",
+      "原理",
+      "元素",
+      "有机",
+      "实验"
+    ],
+    "order": 6,
+    "knowledgePoints": [
+      {
+        "id": "g12-che1",
+        "name": "化学反应原理",
+        "description": "速率与平衡、溶液中离子平衡、电化学综合",
+        "order": 1,
+        "importance": 3,
+        "tags": [
+          "原理"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-che2",
+        "name": "元素化合物",
+        "description": "Na/Mg/Al/Fe/Cu及其化合物、非金属元素性质",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "元素"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-che3",
+        "name": "有机化学",
+        "description": "官能团性质、有机推断与合成路线设计",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "有机"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-che4",
+        "name": "物质结构与性质",
+        "description": "电子排布、杂化轨道、晶体结构与计算",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "结构"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-che5",
+        "name": "化学实验专题",
+        "description": "气体制备、物质检验、定量实验、实验设计评价",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-che6",
+        "name": "化工流程与STSE",
+        "description": "工业流程题解题策略、化学与生活",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "综合"
+        ],
+        "detailedPoints": []
+      }
+    ],
+    "mindMap": {
+      "name": "高考化学系统复习",
+      "children": [
+        {
+          "name": "原理",
+          "children": [
+            {
+              "name": "反应原理综合",
+              "children": [
+                "速率",
+                "平衡",
+                "离子平衡",
+                "电化学"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "元素",
+          "children": [
+            {
+              "name": "元素化合物",
+              "children": [
+                "金属",
+                "非金属",
+                "转化关系"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "有机+结构",
+          "children": [
+            {
+              "name": "有机化学",
+              "children": [
+                "官能团",
+                "推断",
+                "合成路线"
+              ]
+            },
+            {
+              "name": "物质结构",
+              "children": [
+                "电子排布",
+                "杂化",
+                "晶体计算"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "实验+STSE",
+          "children": [
+            {
+              "name": "实验+流程",
+              "children": [
+                "气体制备",
+                "检验",
+                "化工流程",
+                "生活化学"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "id": "g12-biology-exam",
+    "gradeId": "grade-12",
+    "gradeName": "高三",
+    "gradeSlug": "senior-3",
+    "subject": "生物",
+    "routeType": "exam",
+    "routeTypeName": "考前冲刺专项",
+    "title": "高考生物系统复习",
+    "description": "五本教材系统梳理，核心概念+实验设计+遗传计算",
+    "tags": [
+      "高考",
+      "系统复习",
+      "遗传",
+      "实验"
+    ],
+    "order": 7,
+    "knowledgePoints": [
+      {
+        "id": "g12-be1",
+        "name": "细胞的分子与结构",
+        "description": "化合物、细胞器、生物膜系统归纳",
+        "order": 1,
+        "importance": 2,
+        "tags": [
+          "细胞"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-be2",
+        "name": "细胞代谢",
+        "description": "酶、ATP、光合作用与呼吸作用综合",
+        "order": 2,
+        "importance": 3,
+        "tags": [
+          "代谢"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-be3",
+        "name": "遗传定律与变异",
+        "description": "分离自由组合定律、伴性遗传、育种方法",
+        "order": 3,
+        "importance": 3,
+        "tags": [
+          "遗传"
+        ],
+        "detailedPoints": [
+          "基因分离定律(3:1)",
+          "基因自由组合定律(9:3:3:1)",
+          "伴X隐性遗传特征",
+          "伴X显性遗传特征",
+          "系谱图中遗传方式判断",
+          "患病概率计算"
+        ]
+      },
+      {
+        "id": "g12-be4",
+        "name": "基因表达与生物技术",
+        "description": "中心法则、基因工程、PCR、基因编辑",
+        "order": 4,
+        "importance": 2,
+        "tags": [
+          "分子"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-be5",
+        "name": "稳态与调节",
+        "description": "神经-体液-免疫调节网络、植物激素",
+        "order": 5,
+        "importance": 3,
+        "tags": [
+          "调节"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-be6",
+        "name": "生态与环境",
+        "description": "种群群落生态系统、能量流动物质循环",
+        "order": 6,
+        "importance": 2,
+        "tags": [
+          "生态"
+        ],
+        "detailedPoints": []
+      },
+      {
+        "id": "g12-be7",
+        "name": "实验设计与探究",
+        "description": "实验设计原则、变量控制、结果分析表述",
+        "order": 7,
+        "importance": 3,
+        "tags": [
+          "实验"
+        ],
+        "detailedPoints": [
+          "实验设计四原则",
+          "单一变量原则",
+          "对照原则",
+          "平行重复原则",
+          "随机性原则",
+          "实验结果分析与结论表述"
+        ]
+      }
+    ],
+    "mindMap": {
+      "name": "高考生物系统复习",
+      "children": [
+        {
+          "name": "细胞",
+          "children": [
+            {
+              "name": "分子+结构+代谢",
+              "children": [
+                "化合物",
+                "细胞器",
+                "光合呼吸综合"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "遗传",
+          "children": [
+            {
+              "name": "遗传+变异+分子",
+              "children": [
+                "定律",
+                "伴性",
+                "中心法则",
+                "基因工程"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "调节",
+          "children": [
+            {
+              "name": "稳态+调节",
+              "children": [
+                "神经-体液-免疫",
+                "植物激素"
+              ]
+            }
+          ]
+        },
+        {
+          "name": "生态+实验",
+          "children": [
+            {
+              "name": "生态+实验设计",
+              "children": [
+                "种群群落生态系统",
+                "实验原则"
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+]

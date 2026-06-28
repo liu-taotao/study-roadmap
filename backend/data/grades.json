@@ -1,0 +1,70 @@
+[
+  {
+    "id": "grade-3-4",
+    "name": "小学3-4年级",
+    "slug": "primary-3-4",
+    "stage": "primary",
+    "order": 1
+  },
+  {
+    "id": "grade-5-6",
+    "name": "小学5-6年级",
+    "slug": "primary-5-6",
+    "stage": "primary",
+    "order": 2
+  },
+  {
+    "id": "grade-7",
+    "name": "初一",
+    "slug": "junior-1",
+    "stage": "junior",
+    "order": 3
+  },
+  {
+    "id": "grade-8",
+    "name": "初二",
+    "slug": "junior-2",
+    "stage": "junior",
+    "order": 4
+  },
+  {
+    "id": "grade-9",
+    "name": "初三",
+    "slug": "junior-3",
+    "stage": "junior",
+    "order": 5
+  },
+  {
+    "id": "grade-10",
+    "name": "高一",
+    "slug": "senior-1",
+    "stage": "senior",
+    "order": 6,
+    "tracks": [
+      "理科",
+      "文科"
+    ]
+  },
+  {
+    "id": "grade-11",
+    "name": "高二",
+    "slug": "senior-2",
+    "stage": "senior",
+    "order": 7,
+    "tracks": [
+      "理科",
+      "文科"
+    ]
+  },
+  {
+    "id": "grade-12",
+    "name": "高三",
+    "slug": "senior-3",
+    "stage": "senior",
+    "order": 8,
+    "tracks": [
+      "理科",
+      "文科"
+    ]
+  }
+]
